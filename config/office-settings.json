@@ -1,0 +1,70 @@
+{
+    "officeHours": {
+        "weekdays": {
+            "label": {
+                "en": "Monday - Friday",
+                "mr": "सोमवार - शुक्रवार"
+            },
+            "hours": "10:00 AM - 6:00 PM"
+        },
+        "saturday": {
+            "label": {
+                "en": "Saturday",
+                "mr": "शनिवार"
+            },
+            "hours": "10:00 AM - 2:00 PM",
+            "note": {
+                "en": "Limited Services",
+                "mr": "मर्यादित सेवा"
+            }
+        },
+        "sunday": {
+            "label": {
+                "en": "Sunday",
+                "mr": "रविवार"
+            },
+            "hours": {
+                "en": "Closed",
+                "mr": "बंद"
+            },
+            "note": {
+                "en": "Emergency Services Available",
+                "mr": "आपत्कालीन सेवा उपलब्ध"
+            }
+        }
+    },
+    "helplineNumbers": {
+        "general": {
+            "label": {
+                "en": "Office Contact",
+                "mr": "कार्यालय संपर्क"
+            },
+            "number": "+91-XXXXXXXXXX"
+        },
+        "state": {
+            "label": {
+                "en": "State Helpline",
+                "mr": "राज्य हेल्पलाइन"
+            },
+            "number": "1800-XXX-XXXX"
+        },
+        "central": {
+            "label": {
+                "en": "Central Helpline",
+                "mr": "केंद्रीय हेल्पलाइन"
+            },
+            "number": "1800-XXX-XXXX"
+        },
+        "emergency": {
+            "label": {
+                "en": "Emergency Helpline",
+                "mr": "आपत्कालीन हेल्पलाइन"
+            },
+            "number": "1800-XXX-XXXX",
+            "note": {
+                "en": "Toll Free",
+                "mr": "टोल फ्री"
+            }
+        }
+    }
+}

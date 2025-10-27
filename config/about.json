@@ -1,0 +1,689 @@
+{
+    "introduction": {
+        "title": {
+            "en": "Introduction",
+            "mr": "परिचय"
+        },
+        "subtitle": {
+            "en": "Complete information about our village",
+            "mr": "आमच्या गावाची संपूर्ण माहिती"
+        },
+        "description": {
+            "en": "Introduction to our village, geography, population and key information",
+            "mr": "आमच्या गावाचा परिचय, भूगोल, लोकसंख्या आणि मुख्य माहिती"
+        },
+        "welcome": {
+            "en": "Welcome",
+            "mr": "स्वागत आहे"
+        },
+        "welcomeMessage": {
+            "en": "Welcome to our Gram Panchayat. Our village is nestled in the heart of Maharashtra and is known for its rich culture, traditions, and progressive outlook. We are committed to providing excellent services to our citizens and progressing on the path of sustainable development.",
+            "mr": "आमच्या ग्राम पंचायतमध्ये आपले स्वागत आहे. आमचे गाव महाराष्ट्राच्या हृदयभागात वसलेले आहे आणि समृद्ध संस्कृती, परंपरा आणि प्रगतीसाठी ओळखले जाते. आम्ही आमच्या नागरिकांना उत्कृष्ट सेवा प्रदान करण्यासाठी आणि शाश्वत विकासाच्या मार्गावर प्रगती करण्यासाठी वचनबद्ध आहोत."
+        },
+        "statistics": {
+            "title": {
+                "en": "Key Statistics",
+                "mr": "मुख्य आकडेवारी"
+            },
+            "population": {
+                "label": {
+                    "en": "Total Population",
+                    "mr": "एकूण लोकसंख्या"
+                },
+                "total": 5247,
+                "males": {
+                    "en": "Males",
+                    "mr": "पुरुष"
+                },
+                "malesCount": 2680,
+                "females": {
+                    "en": "Females",
+                    "mr": "महिला"
+                },
+                "femalesCount": 2567
+            },
+            "households": {
+                "label": {
+                    "en": "Households",
+                    "mr": "कुटुंबे"
+                },
+                "total": 1523,
+                "averageSize": {
+                    "en": "Average Size",
+                    "mr": "सरासरी आकार"
+                },
+                "averageSizeValue": 3.4,
+                "members": {
+                    "en": "Members",
+                    "mr": "सदस्य"
+                }
+            },
+            "area": {
+                "label": {
+                    "en": "Total Area (hectares)",
+                    "mr": "एकूण क्षेत्र (हेक्टर)"
+                },
+                "total": 542,
+                "agricultural": {
+                    "en": "Agricultural Land",
+                    "mr": "शेतजमीन"
+                },
+                "agriculturalArea": 428,
+                "agriculturalPercentage": 79
+            },
+            "ward": {
+                "label": {
+                    "en": "Ward Count",
+                    "mr": "प्रभाग (वॉर्ड) संख्या"
+                },
+                "total": 0
+            },
+            "Literacy": {
+                "label": {
+                    "en": "Literacy Rate",
+                    "mr": "साक्षरता दर"
+                },
+                "total": 0
+            },
+            "water": {
+                "label": {
+                    "en": "Water Resource",
+                    "mr": "पाण्याचे स्त्रोत"
+                },
+                "total": 0
+            }
+        },
+        "geographic": {
+            "title": {
+                "en": "Geographic Information",
+                "mr": "भौगोलिक माहिती"
+            },
+            "location": {
+                "en": "Location",
+                "mr": "स्थान"
+            },
+            "district": {
+                "en": "District",
+                "mr": "जिल्हा"
+            },
+            "taluka": {
+                "en": "Taluka",
+                "mr": "तालुका"
+            },
+            "state": {
+                "en": "State",
+                "mr": "राज्य"
+            },
+            "maharashtra": {
+                "en": "Maharashtra",
+                "mr": "महाराष्ट्र"
+            },
+            "pinCode": {
+                "en": "PIN Code",
+                "mr": "पिन कोड"
+            }
+        },
+        "infrastructure": {
+            "title": {
+                "en": "Basic Infrastructure",
+                "mr": "मूलभूत पायाभूत सुविधा"
+            },
+            "education": {
+                "title": {
+                    "en": "Education",
+                    "mr": "शिक्षण"
+                },
+                "primarySchools": {
+                    "en": "Primary Schools",
+                    "mr": "प्राथमिक शाळा"
+                },
+                "secondarySchool": {
+                    "en": "Secondary School",
+                    "mr": "माध्यमिक शाळा"
+                },
+                "anganwadi": {
+                    "en": "Anganwadi Centers",
+                    "mr": "अंगणवाडी केंद्रे"
+                },
+                "library": {
+                    "en": "Library",
+                    "mr": "ग्रंथालय"
+                }
+            },
+            "health": {
+                "title": {
+                    "en": "Health",
+                    "mr": "आरोग्य"
+                },
+                "phc": {
+                    "en": "Primary Health Center",
+                    "mr": "प्राथमिक आरोग्य केंद्र"
+                },
+                "subCenters": {
+                    "en": "Sub-Centers",
+                    "mr": "उपकेंद्रे"
+                },
+                "clinics": {
+                    "en": "Private Clinics",
+                    "mr": "खाजगी दवाखाने"
+                },
+                "pharmacies": {
+                    "en": "Pharmacies",
+                    "mr": "औषधालये"
+                }
+            },
+            "connectivity": {
+                "title": {
+                    "en": "Connectivity",
+                    "mr": "कनेक्टिव्हिटी"
+                },
+                "roads": {
+                    "en": "Paved Roads",
+                    "mr": "पक्के रस्ते"
+                },
+                "busService": {
+                    "en": "Bus Service",
+                    "mr": "बस सेवा"
+                },
+                "available": {
+                    "en": "Available",
+                    "mr": "उपलब्ध"
+                },
+                "internet": {
+                    "en": "Internet",
+                    "mr": "इंटरनेट"
+                },
+                "fiberOptic": {
+                    "en": "Fiber Optic",
+                    "mr": "फायबर ऑप्टिक"
+                },
+                "mobileCoverage": {
+                    "en": "Mobile Coverage",
+                    "mr": "मोबाईल कव्हरेज"
+                }
+            },
+            "waterSanitation": {
+                "title": {
+                    "en": "Water & Sanitation",
+                    "mr": "पाणी आणि स्वच्छता"
+                },
+                "pipedWater": {
+                    "en": "Piped Water",
+                    "mr": "पाईप पाणी"
+                },
+                "coverage": {
+                    "en": "Coverage",
+                    "mr": "कव्हरेज"
+                },
+                "toilets": {
+                    "en": "Toilets",
+                    "mr": "शौचालये"
+                },
+                "drainage": {
+                    "en": "Drainage",
+                    "mr": "ड्रेनेज"
+                },
+                "coveredDrains": {
+                    "en": "Covered Drains",
+                    "mr": "झाकलेले नाले"
+                },
+                "wasteManagement": {
+                    "en": "Waste Management",
+                    "mr": "कचरा व्यवस्थापन"
+                },
+                "daily": {
+                    "en": "Daily",
+                    "mr": "दैनिक"
+                }
+            },
+            "electricity": {
+                "title": {
+                    "en": "Electricity",
+                    "mr": "वीज"
+                },
+                "electrification": {
+                    "en": "Electrification",
+                    "mr": "विद्युतीकरण"
+                },
+                "streetLights": {
+                    "en": "Street Lights",
+                    "mr": "रस्त्यावरील दिवे"
+                },
+                "ledSolar": {
+                    "en": "LED/Solar",
+                    "mr": "एलईडी/सौर"
+                }
+            }
+        },
+        "landDistribution": {
+            "title": {
+                "en": "Land Distribution",
+                "mr": "जमीन वितरण"
+            },
+            "agriculturalLandArea": {
+                "en": "Agricultural Land",
+                "mr": "शेती जमीन"
+            },
+            "agriculturalHectares": 428,
+            "agriculturalPercent": 79,
+            "residentialArea": {
+                "en": "Residential Area",
+                "mr": "निवासी क्षेत्र"
+            },
+            "residentialHectares": 64,
+            "residentialPercent": 12,
+            "forestLand": {
+                "en": "Forest Land",
+                "mr": "वन जमीन"
+            },
+            "forestHectares": 35,
+            "forestPercent": 6,
+            "other": {
+                "en": "Other",
+                "mr": "इतर"
+            },
+            "otherHectares": 15,
+            "otherPercent": 3
+        },
+        "economy": {
+            "title": {
+                "en": "Economy & Livelihood",
+                "mr": "अर्थव्यवस्था आणि उपजीविका"
+            },
+            "primaryOccupation": {
+                "en": "Primary Occupation",
+                "mr": "प्राथमिक व्यवसाय"
+            },
+            "agriculture": {
+                "en": "Agriculture",
+                "mr": "शेती"
+            },
+            "majorCrops": {
+                "en": "Major Crops",
+                "mr": "प्रमुख पिके"
+            },
+            "cropsDescription": {
+                "en": "Sugarcane, Cotton, Jowar",
+                "mr": "ऊस, कापूस, ज्वारी"
+            },
+            "animalHusbandry": {
+                "en": "Animal Husbandry",
+                "mr": "पशुपालन"
+            },
+            "dairyCattle": {
+                "en": "Dairy Cattle",
+                "mr": "दुग्धोत्पादन गुरेढोरे"
+            },
+            "smallBusinesses": {
+                "en": "Small Businesses",
+                "mr": "लघु व्यवसाय"
+            },
+            "shops": {
+                "en": "Shops & Services",
+                "mr": "दुकाने आणि सेवा"
+            }
+        }
+    },
+    "history": {
+        "title": {
+            "en": "History",
+            "mr": "इतिहास"
+        },
+        "subtitle": {
+            "en": "The glorious history of our village",
+            "mr": "आमच्या गावाचा गौरवशाली इतिहास"
+        },
+        "description": {
+            "en": "History of our village, historical events and heritage",
+            "mr": "आमच्या गावाचा इतिहास, ऐतिहासिक घटना आणि वारसा"
+        },
+        "heritage": {
+            "title": {
+                "en": "Our Heritage",
+                "mr": "आमचा वारसा"
+            },
+            "text": {
+                "en": "Our village has a history spanning centuries. It is an excellent example of culture, tradition, and community spirit. We actively participated in the freedom movement and contributed to nation-building.",
+                "mr": "आमच्या गावाचा इतिहास शतकांपूर्वीचा आहे. हे गाव संस्कृती, परंपरा आणि सामुदायिक भावनेचे उत्कृष्ट उदाहरण आहे. आम्ही स्वातंत्र्य चळवळीत सक्रिय सहभाग घेतला आहे आणि राष्ट्रनिर्मितीत आमचे योगदान दिले आहे."
+            }
+        },
+        "timeline": {
+            "title": {
+                "en": "Historical Timeline",
+                "mr": "ऐतिहासिक कालरेखा"
+            },
+            "events": [
+                {
+                    "year": "1800-1850",
+                    "title": {
+                        "en": "Village Foundation",
+                        "mr": "गावाची स्थापना"
+                    },
+                    "description": {
+                        "en": "During this period, our village was founded and the first settlers began establishing their homes here.",
+                        "mr": "या कालावधीत आमच्या गावाची स्थापना झाली आणि पहिले स्थायिक येथे वस्ती करू लागले."
+                    }
+                },
+                {
+                    "year": "1947",
+                    "title": {
+                        "en": "Indian Independence",
+                        "mr": "भारताचे स्वातंत्र्य"
+                    },
+                    "description": {
+                        "en": "Our village actively participated in the freedom movement and contributed many freedom fighters.",
+                        "mr": "आमच्या गावाने स्वातंत्र्य चळवळीत सक्रिय भाग घेतला आणि अनेक स्वातंत्र्यसैनिकांना योगदान दिले."
+                    }
+                },
+                {
+                    "year": "1960",
+                    "title": {
+                        "en": "Gram Panchayat Formation",
+                        "mr": "ग्राम पंचायत स्थापना"
+                    },
+                    "description": {
+                        "en": "Beginning of democratic self-governance - the first Gram Panchayat was elected.",
+                        "mr": "लोकशाही स्वराज्याची सुरुवात - पहिल्या ग्राम पंचायतीची निवड झाली."
+                    }
+                },
+                {
+                    "year": "1975",
+                    "title": {
+                        "en": "Green Revolution",
+                        "mr": "हरित क्रांती"
+                    },
+                    "description": {
+                        "en": "Introduction of modern farming practices and significant increase in agricultural production.",
+                        "mr": "आधुनिक शेती पद्धतींचा परिचय आणि कृषी उत्पादनात लक्षणीय वाढ."
+                    }
+                },
+                {
+                    "year": "1990",
+                    "title": {
+                        "en": "Infrastructure Development",
+                        "mr": "पायाभूत सुविधांचा विकास"
+                    },
+                    "description": {
+                        "en": "Development of basic facilities such as paved roads, electricity, and schools.",
+                        "mr": "पक्के रस्ते, वीज आणि शाळा यांसारख्या मूलभूत सुविधांचा विकास."
+                    }
+                },
+                {
+                    "year": "2005",
+                    "title": {
+                        "en": "Water Supply Project",
+                        "mr": "पाणी पुरवठा प्रकल्प"
+                    },
+                    "description": {
+                        "en": "One of the first villages to start piped water supply to every household.",
+                        "mr": "प्रत्येक घरात पाईप पाणी पुरवठा सुरू करणारे पहिले गाव."
+                    }
+                },
+                {
+                    "year": "2015",
+                    "title": {
+                        "en": "Digital Revolution",
+                        "mr": "डिजिटल क्रांती"
+                    },
+                    "description": {
+                        "en": "Introduction of internet connectivity and e-governance services.",
+                        "mr": "इंटरनेट कनेक्टिव्हिटी आणि ई-गव्हर्नन्स सेवांची ओळख."
+                    }
+                },
+                {
+                    "year": "2019",
+                    "title": {
+                        "en": "Swachh Bharat Success",
+                        "mr": "स्वच्छ भारत यश"
+                    },
+                    "description": {
+                        "en": "Achieved 100% Open Defecation Free (ODF) status.",
+                        "mr": "100% खुले शौचालय मुक्त (ODF) स्थिती प्राप्त केली."
+                    }
+                },
+                {
+                    "year": "2023",
+                    "title": {
+                        "en": "Smart Village Certification",
+                        "mr": "स्मार्ट व्हिलेज प्रमाणपत्र"
+                    },
+                    "description": {
+                        "en": "Received state award for digital literacy and sustainable development.",
+                        "mr": "डिजिटल साक्षरता आणि शाश्वत विकासासाठी राज्य पुरस्कार प्राप्त झाला."
+                    }
+                }
+            ]
+        },
+        "places": {
+            "title": {
+                "en": "Historical Places",
+                "mr": "ऐतिहासिक ठिकाणे"
+            },
+            "items": [
+                {
+                    "name": {
+                        "en": "Ancient Temple",
+                        "mr": "प्राचीन मंदिर"
+                    },
+                    "description": {
+                        "en": "300-year-old temple - symbol of our spiritual heritage.",
+                        "mr": "300 वर्षे जुने मंदिर - आमच्या आध्यात्मिक वारशाचे प्रतीक."
+                    }
+                },
+                {
+                    "name": {
+                        "en": "Freedom Fighter Memorial",
+                        "mr": "स्वातंत्र्यसैनिक स्मारक"
+                    },
+                    "description": {
+                        "en": "Dedicated to freedom movement martyrs from our village.",
+                        "mr": "आमच्या गावातील स्वातंत्र्य चळवळीतील शहीदांना समर्पित."
+                    }
+                },
+                {
+                    "name": {
+                        "en": "Historic Banyan Tree",
+                        "mr": "ऐतिहासिक वडाचे झाड"
+                    },
+                    "description": {
+                        "en": "150-year-old tree - center of community gatherings.",
+                        "mr": "150 वर्षे जुने झाड - समुदाय संवादाचे केंद्र."
+                    }
+                }
+            ]
+        },
+        "legacy": {
+            "title": {
+                "en": "Our Legacy",
+                "mr": "आमचा वारसा"
+            },
+            "cultural": {
+                "title": {
+                    "en": "Cultural Heritage",
+                    "mr": "सांस्कृतिक वारसा"
+                },
+                "text": {
+                    "en": "Our village has a rich cultural tradition. Folk dances, music, and traditional festivals are an integral part of our society.",
+                    "mr": "आमच्या गावात समृद्ध सांस्कृतिक परंपरा आहे. लोकनृत्य, संगीत आणि पारंपारिक उत्सव आमच्या समाजाचा अविभाज्य भाग आहेत."
+                }
+            },
+            "contribution": {
+                "title": {
+                    "en": "Contribution to Nation",
+                    "mr": "राष्ट्राला योगदान"
+                },
+                "text": {
+                    "en": "Our village has given the nation many scholars, soldiers, athletes, and social workers.",
+                    "mr": "आमच्या गावाने राष्ट्राला अनेक विद्वान, शिपाई, क्रीडापटू आणि सामाजिक कार्यकर्ते दिले आहेत."
+                }
+            }
+        }
+    },
+    "administration": {
+        "title": {
+            "en": "Administration",
+            "mr": "प्रशासन"
+        },
+        "subtitle": {
+            "en": "Gram Panchayat Administration & Governance",
+            "mr": "ग्राम पंचायत प्रशासन आणि व्यवस्था"
+        },
+        "description": {
+            "en": "Gram Panchayat administration, elected members and staff",
+            "mr": "ग्राम पंचायत प्रशासन, निवडून आलेले सदस्य आणि कर्मचारी"
+        },
+        "about": {
+            "title": {
+                "en": "About Administration",
+                "mr": "प्रशासनाबद्दल"
+            },
+            "text": {
+                "en": "Our Gram Panchayat is based on democratic principles. Elected representatives and dedicated administrative staff work together for village development. We believe in transparency, accountability, and citizen participation.",
+                "mr": "आमची ग्राम पंचायत लोकशाही तत्त्वांवर आधारित आहे. निवडून आलेले प्रतिनिधी आणि समर्पित प्रशासकीय कर्मचारी मिळून गावाच्या विकासासाठी काम करतात. आम्ही पारदर्शकता, जबाबदारी आणि नागरिक सहभागावर विश्वास ठेवतो."
+            }
+        },
+        "electedReps": {
+            "en": "Elected Representatives",
+            "mr": "निवडून आलेले प्रतिनिधी"
+        },
+        "adminStaff": {
+            "en": "Administrative Staff",
+            "mr": "प्रशासकीय कर्मचारी"
+        },
+        "committees": {
+            "title": {
+                "en": "Panchayat Committees",
+                "mr": "पंचायत समित्या"
+            },
+            "items": [
+                {
+                    "name": {
+                        "en": "Standing Committee",
+                        "mr": "स्थायी समिती"
+                    },
+                    "responsibility": {
+                        "en": "Oversight of administration and approval of important decisions",
+                        "mr": "प्रशासनाची देखरेख आणि महत्त्वाच्या निर्णयांना मान्यता"
+                    },
+                    "members": "5"
+                },
+                {
+                    "name": {
+                        "en": "Finance Committee",
+                        "mr": "वित्त समिती"
+                    },
+                    "responsibility": {
+                        "en": "Management of budget, expenditure, and financial transactions",
+                        "mr": "अर्थसंकल्प, खर्च आणि वित्तीय व्यवहारांचे व्यवस्थापन"
+                    },
+                    "members": "5"
+                },
+                {
+                    "name": {
+                        "en": "Development Committee",
+                        "mr": "विकास समिती"
+                    },
+                    "responsibility": {
+                        "en": "Planning of development projects and infrastructure",
+                        "mr": "विकास प्रकल्प आणि पायाभूत सुविधांची योजना"
+                    },
+                    "members": "7"
+                }
+            ],
+            "members": {
+                "en": "Members",
+                "mr": "सदस्य"
+            },
+            "responsibility": {
+                "en": "Responsibility",
+                "mr": "जबाबदारी"
+            }
+        },
+        "governance": {
+            "title": {
+                "en": "Governance Structure",
+                "mr": "शासन रचना"
+            },
+            "electedBody": {
+                "en": "Elected Body",
+                "mr": "निवडून आलेली संस्था"
+            },
+            "roles": [
+                {
+                    "title": {
+                        "en": "Sarpanch",
+                        "mr": "सरपंच"
+                    },
+                    "description": {
+                        "en": "Elected Head",
+                        "mr": "निवडून आलेले प्रमुख"
+                    }
+                },
+                {
+                    "title": {
+                        "en": "Up-Sarpanch",
+                        "mr": "उपसरपंच"
+                    },
+                    "description": {
+                        "en": "Deputy Head",
+                        "mr": "उप प्रमुख"
+                    }
+                },
+                {
+                    "title": {
+                        "en": "Ward Members",
+                        "mr": "वार्ड सदस्य"
+                    },
+                    "description": {
+                        "en": "4 Ward Members",
+                        "mr": "4 वार्ड सदस्य"
+                    }
+                }
+            ],
+            "functions": {
+                "title": {
+                    "en": "Functions",
+                    "mr": "कार्ये"
+                },
+                "items": [
+                    {
+                        "en": "Approval of development projects",
+                        "mr": "विकास प्रकल्पांना मंजूरी"
+                    },
+                    {
+                        "en": "Budget management",
+                        "mr": "अर्थसंकल्पाचे व्यवस्थापन"
+                    },
+                    {
+                        "en": "Maintenance of public services",
+                        "mr": "सार्वजनिक सेवांची देखभाल"
+                    },
+                    {
+                        "en": "Implementation of government schemes",
+                        "mr": "सरकारी योजनांची अंमलबजावणी"
+                    }
+                ]
+            }
+        },
+        "vision": {
+            "title": {
+                "en": "Our Vision",
+                "mr": "आमची दृष्टी"
+            },
+            "text": {
+                "en": "To create a prosperous, self-reliant and sustainable village with modern facilities and traditional values. To provide quality life and equal opportunities to every citizen.",
+                "mr": "आधुनिक सुविधा आणि पारंपारिक मूल्यांसह एक समृद्ध, आत्मनिर्भर आणि शाश्वत गाव तयार करणे. प्रत्येक नागरिकाला गुणवत्तापूर्ण जीवन आणि समान संधी प्रदान करणे."
+            }
+        },
+        "mission": {
+            "title": {
+                "en": "Our Mission",
+                "mr": "आमचे ध्येय"
+            },
+            "text": {
+                "en": "To improve the quality of life of our citizens through transparent governance, citizen-centric services, inclusive development and environmental conservation.",
+                "mr": "पारदर्शक शासन, नागरिक-केंद्रित सेवा, समावेशक विकास आणि पर्यावरण संवर्धनाद्वारे आमच्या नागरिकांच्या जीवनमानात सुधारणा करणे."
+            }
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "dashboard": {
+        "title": {
+            "en": "Village Dashboard",
+            "mr": "गाव डॅशबोर्ड"
+        },
+        "subtitle": {
+            "en": "Real-time updates and statistics of our village",
+            "mr": "आपल्या गावाची रीअल-टाइम अपडेट्स आणि आकडेवारी"
+        },
+        "viewMore": {
+            "en": "View Details",
+            "mr": "अधिक पहा"
+        }
+    },
+    "hero": {
+        "slides": [
+            {
+                "id": 1,
+                "title": {
+                    "en": "Development of Our Village, Our Responsibility",
+                    "mr": "आपल्या गावाचा विकास, आमची जबाबदारी"
+                },
+                "subtitle": {
+                    "en": "Committed to Transparent Governance and Community Development",
+                    "mr": "पारदर्शक शासन आणि सामुदायिक विकासासाठी प्रतिबद्ध"
+                },
+                "image": "/images/hero1.jpg"
+            },
+            {
+                "id": 2,
+                "title": {
+                    "en": "Digital Services in Your Hands",
+                    "mr": "डिजिटल सेवा तुमच्या हातात"
+                },
+                "subtitle": {
+                    "en": "Online services and information easily available",
+                    "mr": "ऑनलाइन सेवा आणि माहिती सुलभपणे उपलब्ध"
+                },
+                "image": "/images/hero1.jpg"
+            },
+            {
+                "id": 3,
+                "title": {
+                    "en": "Clean and Green Village",
+                    "mr": "स्वच्छ आणि हरित गाव"
+                },
+                "subtitle": {
+                    "en": "Environmental conservation and cleanliness are our goals",
+                    "mr": "पर्यावरण संवर्धन आणि स्वच्छता हे आमचे ध्येय"
+                },
+                "image": "/images/hero1.jpg"
+            }
+        ],
+        "buttons": {
+            "viewServices": {
+                "en": "View Services",
+                "mr": "सेवा पहा"
+            },
+            "contactUs": {
+                "en": "Contact Us",
+                "mr": "संपर्क साधा"
+            }
+        }
+    },
+    "importantLinks": {
+        "title": {
+            "en": "Important Links",
+            "mr": "महत्त्वाचे दुवे"
+        },
+        "links": [
+            {
+                "id": 1,
+                "name": {
+                    "en": "Government of India",
+                    "mr": "भारत सरकार"
+                },
+                "url": "https://www.india.gov.in"
+            },
+            {
+                "id": 2,
+                "name": {
+                    "en": "Maharashtra Government",
+                    "mr": "महाराष्ट्र शासन"
+                },
+                "url": "https://www.maharashtra.gov.in"
+            },
+            {
+                "id": 3,
+                "name": {
+                    "en": "Panchayat Department",
+                    "mr": "पंचायत विभाग"
+                },
+                "url": "https://panchayat.maharashtra.gov.in"
+            },
+            {
+                "id": 4,
+                "name": {
+                    "en": "Digital India",
+                    "mr": "डिजिटल इंडिया"
+                },
+                "url": "https://digitalindia.gov.in"
+            }
+        ]
+    },
+    "officials": {
+        "title": {
+            "en": "Our Officials",
+            "mr": "आमचे अधिकारी"
+        },
+        "viewAll": {
+            "en": "View All Officials",
+            "mr": "सर्व अधिकारी पहा"
+        }
+    },
+    "stats": {
+        "population": {
+            "en": "Population",
+            "mr": "लोकसंख्या"
+        },
+        "households": {
+            "en": "Households",
+            "mr": "कुटुंबे"
+        },
+        "area": {
+            "en": "Area",
+            "mr": "क्षेत्रफळ"
+        },
+        "schemes": {
+            "en": "Schemes",
+            "mr": "योजना"
+        }
+    }
+}

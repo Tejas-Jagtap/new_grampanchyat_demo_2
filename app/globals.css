@@ -1,0 +1,180 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 10, 25, 49;
+  /* #0A1931 - Dark Navy */
+  --background-start-rgb: 246, 250, 253;
+  /* #F6FAFD - Very Light Blue */
+  --background-end-rgb: 246, 250, 253;
+  --accent-navy: 10, 25, 49;
+  /* #0A1931 */
+  --accent-deep-blue: 26, 61, 99;
+  /* #1A3D63 */
+  --accent-medium-blue: 74, 127, 167;
+  /* #4A7FA7 */
+  --accent-light-blue: 179, 207, 229;
+  /* #B3CFE5 */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 10, 25, 49;
+    --background-start-rgb: 246, 250, 253;
+    --background-end-rgb: 246, 250, 253;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+  font-family: "Tiro Devanagari Marathi", "Noto Sans Devanagari", system-ui,
+    -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
+    sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Government Website Standard Typography */
+@layer base {
+  h1 {
+    @apply text-2xl md:text-3xl lg:text-4xl font-bold mb-4 leading-tight;
+  }
+
+  h2 {
+    @apply text-xl md:text-2xl lg:text-3xl font-bold mb-3 leading-tight;
+  }
+
+  h3 {
+    @apply text-lg md:text-xl lg:text-2xl font-semibold mb-3 leading-snug;
+  }
+
+  h4 {
+    @apply text-base md:text-lg font-semibold mb-2 leading-snug;
+  }
+
+  p {
+    @apply text-base leading-relaxed mb-4;
+  }
+
+  a {
+    @apply transition-colors duration-200;
+  }
+}
+
+/* Government Standard Component Styles */
+@layer components {
+  /* Section Headers */
+  .section-header {
+    @apply bg-[#0A1931] text-white px-4 md:px-6 py-3 md:py-4;
+  }
+
+  .section-title {
+    @apply text-lg md:text-xl lg:text-2xl font-bold;
+  }
+
+  /* Content Cards */
+  .content-card {
+    @apply bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300;
+  }
+
+  .card-padding {
+    @apply p-4 md:p-6 lg:p-8;
+  }
+
+  /* Buttons - Government Standard */
+  .btn-primary {
+    @apply bg-[#0A1931] hover:bg-[#1A3D63] text-white px-5 md:px-6 py-2.5 md:py-3 rounded font-semibold text-sm md:text-base transition-colors duration-200;
+  }
+
+  .btn-secondary {
+    @apply bg-white hover:bg-gray-100 text-[#0A1931] border-2 border-[#0A1931] px-5 md:px-6 py-2.5 md:py-3 rounded font-semibold text-sm md:text-base transition-colors duration-200;
+  }
+
+  /* Lists */
+  .list-item {
+    @apply border-l-4 border-[#FF9933] pl-4 py-2 mb-2 hover:bg-gray-50 transition-colors;
+  }
+
+  /* Container Spacing - Government Standard */
+  .container-spacing {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-spacing {
+    @apply mb-6 md:mb-8;
+  }
+
+  /* Grid Gaps - Government Standard */
+  .grid-gap-std {
+    @apply gap-4 md:gap-6 lg:gap-8;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Government Standard Text Sizes */
+  .text-gov-sm {
+    @apply text-sm md:text-base;
+  }
+
+  .text-gov-base {
+    @apply text-base md:text-lg;
+  }
+
+  .text-gov-lg {
+    @apply text-lg md:text-xl;
+  }
+
+  .text-gov-xl {
+    @apply text-xl md:text-2xl lg:text-3xl;
+  }
+
+  /* Government Standard Spacing */
+  .spacing-std {
+    @apply space-y-4 md:space-y-6;
+  }
+
+  .padding-std {
+    @apply p-4 md:p-6 lg:p-8;
+  }
+
+  .margin-std {
+    @apply m-4 md:m-6 lg:m-8;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f6fafd;
+  /* Very light blue */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4a7fa7;
+  /* Medium blue */
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1a3d63;
+  /* Deep blue */
+}
+
+/* Marathi Font Support */
+.marathi {
+  font-family: "Tiro Devanagari Marathi", "Noto Sans Devanagari", sans-serif;
+}

@@ -1,0 +1,1090 @@
+{
+    "navigation": {
+        "menu": {
+            "en": "Menu",
+            "mr": "मेनू"
+        },
+        "certificates": {
+            "en": "Certificates & Forms",
+            "mr": "प्रमाणपत्रे व फॉर्म्स"
+        },
+        "grievance": {
+            "en": "Grievance Redressal",
+            "mr": "तक्रार निवारण लिंक"
+        },
+        "taxPayment": {
+            "en": "Tax Payment (QR)",
+            "mr": "कर भरणा (QR)"
+        },
+        "feedback": {
+            "en": "Feedback Form",
+            "mr": "फीडबॅक फॉर्म"
+        },
+        "announcements": {
+            "en": "Announcements",
+            "mr": "घोषणा"
+        },
+        "meetings": {
+            "en": "Meeting Notices",
+            "mr": "बैठक सूचना"
+        },
+        "circulars": {
+            "en": "Circulars / Orders",
+            "mr": "परिपत्रके / आदेश"
+        },
+        "deadlines": {
+            "en": "Deadlines",
+            "mr": "अंतिम मुदती"
+        },
+        "downloads": {
+            "en": "Downloads / Calendar",
+            "mr": "डाउनलोड / कॅलेंडर"
+        },
+        "media": {
+            "en": "Media",
+            "mr": "मीडिया"
+        },
+        "photoGallery": {
+            "en": "Photo Gallery",
+            "mr": "फोटो गॅलरी"
+        },
+        "videoGallery": {
+            "en": "Video Gallery",
+            "mr": "व्हिडिओ गॅलरी"
+        },
+        "eventHighlights": {
+            "en": "Event & Festival Highlights",
+            "mr": "कार्यक्रम व उत्सव हायलाइट्स"
+        },
+        "dashboard": {
+            "en": "Dashboard",
+            "mr": "डॅशबोर्ड"
+        },
+        "demographics": {
+            "en": "Population, Literacy & Sanitation",
+            "mr": "लोकसंख्या, साक्षरता, स्वच्छता"
+        },
+        "utilities": {
+            "en": "Water & Electricity Supply",
+            "mr": "नळजोडणी, वीजपुरवठा"
+        },
+        "beneficiaries": {
+            "en": "Scheme Beneficiaries",
+            "mr": "योजना लाभार्थी"
+        },
+        "grievanceStatus": {
+            "en": "Grievance Resolution Status",
+            "mr": "तक्रारी निराकरण स्थिती"
+        },
+        "environmental": {
+            "en": "Tree Plantation / Environmental Initiatives",
+            "mr": "वृक्षारोपण / पर्यावरण उपक्रम"
+        },
+        "wardAnalysis": {
+            "en": "Ward-wise Graphs / Analysis",
+            "mr": "वॉर्डनिहाय ग्राफ / विश्लेषण"
+        },
+        "topAchievements": {
+            "en": "Top 5 Annual Achievements",
+            "mr": "वर्षातील टॉप ५ उपलब्धी"
+        },
+        "culture": {
+            "en": "Culture / Community",
+            "mr": "संस्कृती / समुदाय"
+        },
+        "villageAndCulture": {
+            "en": "Our Village / Culture",
+            "mr": "आमचे गाव / संस्कृती"
+        },
+        "youthAndSports": {
+            "en": "Education, Youth & Sports",
+            "mr": "शिक्षण, युवक व खेळ"
+        },
+        "skillDevelopment": {
+            "en": "Employment & Skill Development",
+            "mr": "रोजगार व कौशल्य विकास"
+        },
+        "ngoPartners": {
+            "en": "NGO/CSR Partners",
+            "mr": "भागीदार NGO / CSR सहकार्य"
+        },
+        "volunteer": {
+            "en": "Become a Volunteer",
+            "mr": "स्वयंसेवक बना"
+        },
+        "home": {
+            "en": "Home",
+            "mr": "मुखपृष्ठ"
+        },
+        "about": {
+            "en": "About",
+            "mr": "आमच्याबद्दल"
+        },
+        "projects": {
+            "en": "Projects / Initiatives",
+            "mr": "प्रकल्प / उपक्रम"
+        },
+        "completedProjects": {
+            "en": "Completed Projects",
+            "mr": "पूर्ण झालेले प्रकल्प"
+        },
+        "ongoingProjects": {
+            "en": "Ongoing Projects",
+            "mr": "सुरू असलेले प्रकल्प"
+        },
+        "proposedProjects": {
+            "en": "Proposed Projects",
+            "mr": "प्रस्तावित प्रकल्प"
+        },
+        "beforeAfter": {
+            "en": "Before & After Gallery",
+            "mr": "आधी आणि नंतरचे छायाचित्रे"
+        },
+        "sankalpTracker": {
+            "en": "Sankalp Tracker",
+            "mr": "संकल्प ट्रॅकर"
+        },
+        "impactDashboard": {
+            "en": "Impact Dashboard",
+            "mr": "प्रभाव डॅशबोर्ड"
+        },
+        "schemes": {
+            "en": "Schemes",
+            "mr": "योजना"
+        },
+        "services": {
+            "en": "Services",
+            "mr": "सेवा"
+        },
+        "news": {
+            "en": "News",
+            "mr": "बातम्या"
+        },
+        "gallery": {
+            "en": "Gallery",
+            "mr": "छायाचित्र दालन"
+        },
+        "contact": {
+            "en": "Contact",
+            "mr": "संपर्क"
+        },
+        "introduction": {
+            "en": "Introduction",
+            "mr": "परिचय"
+        },
+        "history": {
+            "en": "History",
+            "mr": "इतिहास"
+        },
+        "administration": {
+            "en": "Administration",
+            "mr": "प्रशासन"
+        },
+        "centralSchemes": {
+            "en": "Central Schemes",
+            "mr": "केंद्रीय योजना"
+        },
+        "stateSchemes": {
+            "en": "State Schemes",
+            "mr": "राज्य योजना"
+        },
+        "localSchemes": {
+            "en": "Local Schemes",
+            "mr": "स्थानिक योजना"
+        }
+    },
+    "projects": {
+        "mainDescription": {
+            "en": "Explore our village development initiatives and their impact on the community. Track progress, view completed projects, and learn about upcoming initiatives.",
+            "mr": "आमच्या गाव विकास उपक्रमांचा आणि त्यांचा समाजावरील प्रभाव जाणून घ्या. प्रगती ट्रॅक करा, पूर्ण झालेले प्रकल्प पहा आणि येणाऱ्या उपक्रमांबद्दल जाणून घ्या."
+        },
+        "viewImpact": {
+            "en": "View Impact Dashboard",
+            "mr": "प्रभाव डॅशबोर्ड पहा"
+        },
+        "trackProgress": {
+            "en": "Track Progress",
+            "mr": "प्रगती ट्रॅक करा"
+        }
+    },
+    "components": {
+        "officials": {
+            "title": {
+                "en": "Panchayat Structure",
+                "mr": "पंचायत संरचना"
+            },
+            "viewAll": {
+                "en": "View All Officials",
+                "mr": "सर्व अधिकारी पहा"
+            }
+        },
+        "news": {
+            "title": {
+                "en": "Latest News",
+                "mr": "ताज्या बातम्या"
+            },
+            "viewAll": {
+                "en": "View All News",
+                "mr": "सर्व बातम्या पहा"
+            },
+            "readMore": {
+                "en": "Read More",
+                "mr": "अधिक वाचा"
+            }
+        },
+        "departments": {
+            "title": {
+                "en": "Departments",
+                "mr": "विभाग"
+            },
+            "viewDepartment": {
+                "en": "View Department",
+                "mr": "विभाग पहा"
+            },
+            "viewAll": {
+                "en": "View All Departments",
+                "mr": "सर्व विभाग पहा"
+            }
+        },
+        "schemes": {
+            "title": {
+                "en": "Government Schemes",
+                "mr": "सरकारी योजना"
+            },
+            "viewAll": {
+                "en": "View All Schemes",
+                "mr": "सर्व योजना पहा"
+            }
+        },
+        "gallery": {
+            "title": {
+                "en": "Photo Gallery",
+                "mr": "फोटो गॅलरी"
+            },
+            "viewFull": {
+                "en": "View Full Gallery",
+                "mr": "संपूर्ण गॅलरी पहा"
+            }
+        },
+        "helpline": {
+            "title": {
+                "en": "Emergency Helpline",
+                "mr": "आपत्कालीन हेल्पलाइन"
+            },
+            "emergency": {
+                "en": "Emergency",
+                "mr": "आपत्कालीन"
+            },
+            "police": {
+                "en": "Police",
+                "mr": "पोलीस"
+            },
+            "ambulance": {
+                "en": "Ambulance",
+                "mr": "रुग्णवाहिका"
+            },
+            "fire": {
+                "en": "Fire Brigade",
+                "mr": "अग्निशमन दल"
+            },
+            "healthCenter": {
+                "en": "Health Center",
+                "mr": "आरोग्य केंद्र"
+            },
+            "bloodBank": {
+                "en": "Blood Bank",
+                "mr": "रक्तपेढी"
+            },
+            "disasterManagement": {
+                "en": "Disaster Management",
+                "mr": "आपत्ती व्यवस्थापन विभाग"
+            },
+            "fpoGroup": {
+                "en": "FPO Group",
+                "mr": "FPO गट"
+            },
+            "msebDepartment": {
+                "en": "MSEB Department",
+                "mr": " MSEB विभाग"
+            },
+            "forestDepartment": {
+                "en": "Forest Department",
+                "mr": "वन विभाग"
+            }
+        },
+        "importantLinks": {
+            "title": {
+                "en": "Important Links",
+                "mr": "महत्त्वाचे दुवे"
+            }
+        }
+    },
+    "footer": {
+        "about": {
+            "en": "About Us",
+            "mr": "आमच्याबद्दल"
+        },
+        "aboutText": {
+            "en": "Serving our community with dedication and transparency.",
+            "mr": "समर्पण आणि पारदर्शकतेने आमच्या समाजाची सेवा करत आहोत."
+        },
+        "quickLinks": {
+            "en": "Quick Links",
+            "mr": "द्रुत दुवे"
+        },
+        "importantLinks": {
+            "en": "Important Links",
+            "mr": "महत्त्वाचे दुवे"
+        },
+        "contactUs": {
+            "en": "Contact Us",
+            "mr": "संपर्क साधा"
+        },
+        "office": {
+            "en": "Office",
+            "mr": "कार्यालय"
+        },
+        "phone": {
+            "en": "Phone",
+            "mr": "दूरध्वनी"
+        },
+        "email": {
+            "en": "Email",
+            "mr": "ईमेल"
+        },
+        "followUs": {
+            "en": "Follow Us",
+            "mr": "आम्हाला फॉलो करा"
+        },
+        "copyright": {
+            "en": "All Rights Reserved",
+            "mr": "सर्व हक्क राखीव"
+        },
+        "content": {
+            "en": "Content Managed by",
+            "mr": "सामग्री व्यवस्थापित"
+        },
+        "lastUpdated": {
+            "en": "Last Updated:",
+            "mr": "शेवटचा अद्यतन:"
+        }
+    },
+    "pages": {
+        "departments": {
+            "selectDepartment": {
+                "en": "Select a Department",
+                "mr": "विभाग निवडा"
+            },
+            "allDepartmentsInfo": {
+                "en": "Information about all departments and their services",
+                "mr": "सर्व विभाग आणि त्यांच्या सेवांबद्दल माहिती"
+            },
+            "officeHours": {
+                "en": "Office Hours",
+                "mr": "कार्यालयीन वेळ"
+            },
+            "weekdays": {
+                "en": "Weekdays",
+                "mr": "आठवड्याचे दिवस"
+            },
+            "mondayFriday": {
+                "en": "Monday - Friday",
+                "mr": "सोमवार - शुक्रवार"
+            },
+            "saturday": {
+                "en": "Saturday",
+                "mr": "शनिवार"
+            },
+            "sunday": {
+                "en": "Sunday",
+                "mr": "रविवार"
+            },
+            "limitedServices": {
+                "en": "Limited Services",
+                "mr": "मर्यादित सेवा"
+            },
+            "closed": {
+                "en": "Closed",
+                "mr": "बंद"
+            },
+            "emergencyServicesAvailable": {
+                "en": "Emergency Services Available",
+                "mr": "आपत्कालीन सेवा उपलब्ध"
+            }
+        },
+        "schemes": {
+            "selectSchemeType": {
+                "en": "Select Scheme Type",
+                "mr": "योजना प्रकार निवडा"
+            },
+            "allSchemesInfo": {
+                "en": "Information about all government schemes and welfare programs",
+                "mr": "सर्व सरकारी योजना आणि कल्याणकारी कार्यक्रमांबद्दल माहिती"
+            },
+            "applyForSchemes": {
+                "en": "Apply for Schemes",
+                "mr": "योजनांसाठी अर्ज करा"
+            },
+            "visitOfficeOrApplyOnline": {
+                "en": "Visit our office or apply online for various government schemes",
+                "mr": "विविध सरकारी योजनांसाठी आमच्या कार्यालयात भेट द्या किंवा ऑनलाइन अर्ज करा"
+            },
+            "applyOnline": {
+                "en": "Apply Online",
+                "mr": "ऑनलाइन अर्ज करा"
+            },
+            "viewSchemes": {
+                "en": "View Schemes",
+                "mr": "योजना पहा"
+            },
+            "schemes": {
+                "en": "Schemes",
+                "mr": "योजना"
+            },
+            "needHelp": {
+                "en": "Need Help?",
+                "mr": "मदत हवी आहे?"
+            },
+            "visitOffice": {
+                "en": "Visit Office",
+                "mr": "कार्यालयात भेट द्या"
+            },
+            "helpline": {
+                "en": "Helpline",
+                "mr": "हेल्पलाइन"
+            },
+            "downloadForms": {
+                "en": "Download Forms",
+                "mr": "फॉर्म डाउनलोड करा"
+            },
+            "getApplicationForms": {
+                "en": "Get application forms and guidelines",
+                "mr": "अर्ज फॉर्म आणि मार्गदर्शक तत्त्वे मिळवा"
+            },
+            "benefits": {
+                "en": "Benefits",
+                "mr": "फायदे"
+            },
+            "eligibility": {
+                "en": "Eligibility",
+                "mr": "पात्रता"
+            },
+            "requiredDocuments": {
+                "en": "Required Documents",
+                "mr": "आवश्यक कागदपत्रे"
+            },
+            "applyNow": {
+                "en": "Apply Now",
+                "mr": "आता अर्ज करा"
+            },
+            "title": {
+                "en": "Government Schemes",
+                "mr": "सरकारी योजना"
+            },
+            "mondayFriday": {
+                "en": "Monday - Friday",
+                "mr": "सोमवार - शुक्रवार"
+            },
+            "email": {
+                "en": "Email",
+                "mr": "ईमेल"
+            },
+            "stateSubtitle": {
+                "en": "Maharashtra State Government Schemes",
+                "mr": "महाराष्ट्र राज्य सरकार योजना"
+            },
+            "aboutStateSchemes": {
+                "en": "About State Schemes",
+                "mr": "राज्य योजनांबद्दल"
+            },
+            "stateIntro": {
+                "en": "State government schemes for the welfare of citizens",
+                "mr": "नागरिकांच्या कल्याणासाठी राज्य सरकारी योजना"
+            },
+            "stateGovernment": {
+                "en": "State Government",
+                "mr": "राज्य सरकार"
+            },
+            "helpText": {
+                "en": "Contact us for more information",
+                "mr": "अधिक माहितीसाठी आमच्याशी संपर्क साधा"
+            },
+            "stateHelpline": {
+                "en": "State Helpline",
+                "mr": "राज्य हेल्पलाइन"
+            },
+            "officialWebsite": {
+                "en": "Official Website",
+                "mr": "अधिकृत वेबसाइट"
+            },
+            "districtOffice": {
+                "en": "District Office",
+                "mr": "जिल्हा कार्यालय"
+            },
+            "monSat": {
+                "en": "Monday - Saturday",
+                "mr": "सोमवार - शनिवार"
+            },
+            "localSubtitle": {
+                "en": "Gram Panchayat Local Schemes",
+                "mr": "ग्रामपंचायत स्थानिक योजना"
+            },
+            "aboutLocalSchemes": {
+                "en": "About Local Schemes",
+                "mr": "स्थानिक योजनांबद्दल"
+            },
+            "localIntro": {
+                "en": "Local schemes for village development",
+                "mr": "गाव विकासासाठी स्थानिक योजना"
+            },
+            "gramPanchayat": {
+                "en": "Gram Panchayat",
+                "mr": "ग्रामपंचायत"
+            },
+            "status": {
+                "en": "Status",
+                "mr": "स्थिती"
+            },
+            "currentStatus": {
+                "en": "Current Status",
+                "mr": "सद्य:स्थिती"
+            },
+            "visitGramPanchayat": {
+                "en": "Visit Gram Panchayat Office",
+                "mr": "ग्रामपंचायत कार्यालयाला भेट द्या"
+            },
+            "localHelpText": {
+                "en": "Contact our office for assistance with local schemes",
+                "mr": "स्थानिक योजनांसाठी मदतीसाठी आमच्या कार्यालयाशी संपर्क साधा"
+            },
+            "officeContact": {
+                "en": "Office Contact",
+                "mr": "कार्यालय संपर्क"
+            },
+            "officeHours": {
+                "en": "Office Hours",
+                "mr": "कार्यालयीन वेळ"
+            },
+            "monFri": {
+                "en": "Monday - Friday",
+                "mr": "सोमवार - शुक्रवार"
+            },
+            "beneficiaries": {
+                "en": "Beneficiaries",
+                "mr": "लाभार्थी"
+            },
+            "centralGovernment": {
+                "en": "Central Government Scheme",
+                "mr": "केंद्र सरकार योजना"
+            },
+            "centralHelpline": {
+                "en": "Central Helpline",
+                "mr": "केंद्रीय हेल्पलाइन"
+            },
+            "aboutCentralSchemes": {
+                "en": "About Central Government Schemes",
+                "mr": "केंद्र सरकार योजनांबद्दल"
+            },
+            "centralIntro": {
+                "en": "Central Government schemes are designed to provide financial assistance and support to eligible citizens across various sectors.",
+                "mr": "केंद्र सरकारच्या योजना विविध क्षेत्रांमध्ये पात्र नागरिकांना आर्थिक सहाय्य आणि समर्थन प्रदान करण्यासाठी तयार केल्या आहेत."
+            },
+            "centralSubtitle": {
+                "en": "Schemes and programs initiated by the Central Government of India",
+                "mr": "भारत सरकारने सुरू केलेल्या योजना आणि कार्यक्रम"
+            }
+        },
+        "services": {
+            "ourServices": {
+                "en": "Our Services",
+                "mr": "आमच्या सेवा"
+            },
+            "pageDesc": {
+                "en": "All services and certificates provided by the Gram Panchayat",
+                "mr": "ग्रामपंचायतीने प्रदान केलेल्या सर्व सेवा आणि प्रमाणपत्रे"
+            },
+            "applyOnline": {
+                "en": "Apply Online",
+                "mr": "ऑनलाइन अर्ज करा"
+            },
+            "allServicesOnline": {
+                "en": "All services are now available online",
+                "mr": "सर्व सेवा आता ऑनलाइन उपलब्ध आहेत"
+            },
+            "goToPortal": {
+                "en": "Go to Portal",
+                "mr": "पोर्टलवर जा"
+            },
+            "processingTime": {
+                "en": "Processing Time",
+                "mr": "प्रक्रिया वेळ"
+            },
+            "workingDays": {
+                "en": "Working Days",
+                "mr": "कामकाजाचे दिवस"
+            },
+            "fee": {
+                "en": "Fee",
+                "mr": "शुल्क"
+            },
+            "requiredDocuments": {
+                "en": "Required Documents",
+                "mr": "आवश्यक कागदपत्रे"
+            },
+            "applyOnlineBtn": {
+                "en": "Apply Online",
+                "mr": "ऑनलाइन अर्ज करा"
+            },
+            "downloadForm": {
+                "en": "Download Form",
+                "mr": "फॉर्म डाउनलोड करा"
+            },
+            "applicationProcess": {
+                "en": "Application Process",
+                "mr": "अर्ज प्रक्रिया"
+            },
+            "selectService": {
+                "en": "Select Service",
+                "mr": "सेवा निवडा"
+            },
+            "selectServiceDesc": {
+                "en": "Choose the service you need",
+                "mr": "तुम्हाला आवश्यक असलेली सेवा निवडा"
+            },
+            "fillForm": {
+                "en": "Fill Form",
+                "mr": "फॉर्म भरा"
+            },
+            "fillFormDesc": {
+                "en": "Complete the application form",
+                "mr": "अर्ज फॉर्म भरा"
+            },
+            "submit": {
+                "en": "Submit",
+                "mr": "सबमिट करा"
+            },
+            "submitDesc": {
+                "en": "Submit with required documents",
+                "mr": "आवश्यक कागदपत्रांसह सबमिट करा"
+            },
+            "trackStatus": {
+                "en": "Track Status",
+                "mr": "स्थिती ट्रॅक करा"
+            },
+            "trackStatusDesc": {
+                "en": "Track your application status online",
+                "mr": "तुमच्या अर्जाची स्थिती ऑनलाइन ट्रॅक करा"
+            }
+        },
+        "news": {
+            "latestNews": {
+                "en": "Latest News & Updates",
+                "mr": "ताज्या बातम्या आणि अपडेट्स"
+            },
+            "description": {
+                "en": "Stay updated with the latest news and announcements from the Gram Panchayat",
+                "mr": "ग्रामपंचायतीच्या ताज्या बातम्या आणि घोषणांसह अपडेट रहा"
+            },
+            "allNews": {
+                "en": "All News",
+                "mr": "सर्व बातम्या"
+            },
+            "readMore": {
+                "en": "Read More",
+                "mr": "अधिक वाचा"
+            },
+            "subscribeNewsletter": {
+                "en": "Subscribe to Newsletter",
+                "mr": "वृत्तपत्रास सदस्यता घ्या"
+            },
+            "newsletterDesc": {
+                "en": "Get the latest updates delivered to your inbox",
+                "mr": "ताज्या अपडेट्स तुमच्या इनबॉक्समध्ये मिळवा"
+            },
+            "yourEmail": {
+                "en": "Your Email",
+                "mr": "तुमचा ईमेल"
+            },
+            "subscribe": {
+                "en": "Subscribe",
+                "mr": "सदस्यता घ्या"
+            }
+        },
+        "gallery": {
+            "photoGallery": {
+                "en": "Photo Gallery",
+                "mr": "फोटो गॅलरी"
+            },
+            "description": {
+                "en": "View photos from various events, programs and development activities",
+                "mr": "विविध कार्यक्रम, उपक्रम आणि विकास क्रियाकलापांचे फोटो पहा"
+            },
+            "totalPhotos": {
+                "en": "Total Photos",
+                "mr": "एकूण फोटो"
+            },
+            "events": {
+                "en": "Events",
+                "mr": "कार्यक्रम"
+            },
+            "development": {
+                "en": "Development",
+                "mr": "विकास"
+            },
+            "festivals": {
+                "en": "Festivals",
+                "mr": "सण"
+            },
+            "allPhotos": {
+                "en": "All Photos",
+                "mr": "सर्व फोटो"
+            },
+            "sharePhotos": {
+                "en": "Share Your Photos",
+                "mr": "तुमचे फोटो शेअर करा"
+            },
+            "shareDescription": {
+                "en": "Have photos from village events? Share them with us!",
+                "mr": "गावातील कार्यक्रमांचे फोटो आहेत? आमच्यासोबत शेअर करा!"
+            },
+            "uploadPhotos": {
+                "en": "Upload Photos",
+                "mr": "फोटो अपलोड करा"
+            }
+        },
+        "project": {
+            "photoGallery": {
+                "en": "Photo Gallery",
+                "mr": "फोटो गॅलरी"
+            },
+            "description": {
+                "en": "View photos from various events, programs and development activities",
+                "mr": "विविध कार्यक्रम, उपक्रम आणि विकास क्रियाकलापांचे फोटो पहा"
+            },
+            "totalPhotos": {
+                "en": "Total Photos",
+                "mr": "एकूण फोटो"
+            },
+            "events": {
+                "en": "Events",
+                "mr": "कार्यक्रम"
+            },
+            "development": {
+                "en": "Development",
+                "mr": "विकास"
+            },
+            "festivals": {
+                "en": "Festivals",
+                "mr": "सण"
+            },
+            "allPhotos": {
+                "en": "All Photos",
+                "mr": "सर्व फोटो"
+            },
+            "sharePhotos": {
+                "en": "Share Your Photos",
+                "mr": "तुमचे फोटो शेअर करा"
+            },
+            "shareDescription": {
+                "en": "Have photos from village events? Share them with us!",
+                "mr": "गावातील कार्यक्रमांचे फोटो आहेत? आमच्यासोबत शेअर करा!"
+            },
+            "uploadPhotos": {
+                "en": "Upload Photos",
+                "mr": "फोटो अपलोड करा"
+            }
+        }
+    },
+    "common": {
+        "schemes": {
+            "en": "Schemes",
+            "mr": "योजना"
+        },
+        "applyOnline": {
+            "en": "Apply Online",
+            "mr": "ऑनलाइन अर्ज करा"
+        },
+        "viewSchemes": {
+            "en": "View Schemes",
+            "mr": "योजना पहा"
+        },
+        "viewAll": {
+            "en": "View All",
+            "mr": "सर्व पहा"
+        },
+        "readMore": {
+            "en": "Read More",
+            "mr": "अधिक वाचा"
+        },
+        "learnMore": {
+            "en": "Learn More",
+            "mr": "अधिक जाणा"
+        },
+        "submit": {
+            "en": "Submit",
+            "mr": "सबमिट करा"
+        },
+        "cancel": {
+            "en": "Cancel",
+            "mr": "रद्द करा"
+        },
+        "close": {
+            "en": "Close",
+            "mr": "बंद करा"
+        },
+        "search": {
+            "en": "Search",
+            "mr": "शोधा"
+        },
+        "filter": {
+            "en": "Filter",
+            "mr": "फिल्टर"
+        },
+        "all": {
+            "en": "All",
+            "mr": "सर्व"
+        },
+        "loading": {
+            "en": "Loading...",
+            "mr": "लोड होत आहे..."
+        },
+        "noResults": {
+            "en": "No results found",
+            "mr": "कोणतेही परिणाम आढळले नाहीत"
+        },
+        "selectSection": {
+            "en": "Select Section",
+            "mr": "विभाग निवडा"
+        },
+        "viewDetails": {
+            "en": "View Details",
+            "mr": "तपशील पहा"
+        },
+        "selectDepartment": {
+            "en": "Select a Department",
+            "mr": "विभाग निवडा"
+        },
+        "allDepartmentsInfo": {
+            "en": "Information about all departments and their services",
+            "mr": "सर्व विभाग आणि त्यांच्या सेवांबद्दल माहिती"
+        },
+        "officeHours": {
+            "en": "Office Hours",
+            "mr": "कार्यालयीन वेळ"
+        },
+        "weekdays": {
+            "en": "Weekdays",
+            "mr": "आठवड्याचे दिवस"
+        },
+        "mondayFriday": {
+            "en": "Monday - Friday",
+            "mr": "सोमवार - शुक्रवार"
+        },
+        "saturday": {
+            "en": "Saturday",
+            "mr": "शनिवार"
+        },
+        "sunday": {
+            "en": "Sunday",
+            "mr": "रविवार"
+        },
+        "limitedServices": {
+            "en": "Limited Services",
+            "mr": "मर्यादित सेवा"
+        },
+        "closed": {
+            "en": "Closed",
+            "mr": "बंद"
+        },
+        "emergencyServicesAvailable": {
+            "en": "Emergency Services Available",
+            "mr": "आपत्कालीन सेवा उपलब्ध"
+        },
+        "viewDepartment": {
+            "en": "View Department",
+            "mr": "विभाग पहा"
+        },
+        "notFound": {
+            "en": "Not Found",
+            "mr": "सापडले नाही"
+        },
+        "backToDepartments": {
+            "en": "Back to Departments",
+            "mr": "विभागांकडे परत जा"
+        }
+    },
+    "dept": {
+        "title": {
+            "en": "Departments",
+            "mr": "विभाग"
+        }
+    },
+    "intro": {
+        "agriculturalPower": {
+            "en": "Agricultural Power",
+            "mr": "शेती वीज"
+        },
+        "agriculture": {
+            "en": "Agriculture",
+            "mr": "शेती"
+        },
+        "animalHusbandry": {
+            "en": "Animal Husbandry",
+            "mr": "पशुसंवर्धन"
+        },
+        "backup": {
+            "en": "Backup",
+            "mr": "बॅकअप"
+        },
+        "bankBranch": {
+            "en": "Bank Branch",
+            "mr": "बँक शाखा"
+        },
+        "communityHall": {
+            "en": "Community Hall",
+            "mr": "सामुदायिक सभागृह"
+        },
+        "construction": {
+            "en": "Construction",
+            "mr": "बांधकाम"
+        },
+        "economyLivelihood": {
+            "en": "Economy & Livelihood",
+            "mr": "अर्थव्यवस्था आणि उपजीविका"
+        },
+        "fishing": {
+            "en": "Fishing",
+            "mr": "मासेमारी"
+        },
+        "governmentJobs": {
+            "en": "Government Jobs",
+            "mr": "सरकारी नोकर्‍या"
+        },
+        "manufacturing": {
+            "en": "Manufacturing",
+            "mr": "उत्पादन"
+        },
+        "other": {
+            "en": "Other",
+            "mr": "इतर"
+        },
+        "postOffice": {
+            "en": "Post Office",
+            "mr": "पोस्ट ऑफिस"
+        },
+        "primarySector": {
+            "en": "Primary Sector",
+            "mr": "प्राथमिक क्षेत्र"
+        },
+        "secondarySector": {
+            "en": "Secondary Sector",
+            "mr": "दुय्यम क्षेत्र"
+        },
+        "services": {
+            "en": "Services",
+            "mr": "सेवा"
+        },
+        "smallIndustries": {
+            "en": "Small Industries",
+            "mr": "लघु उद्योग"
+        },
+        "sportsGround": {
+            "en": "Sports Ground",
+            "mr": "क्रीडांगण"
+        },
+        "tertiarySector": {
+            "en": "Tertiary Sector",
+            "mr": "तृतीयक क्षेत्र"
+        },
+        "threePhase": {
+            "en": "Three Phase",
+            "mr": "तीन फेज"
+        },
+        "trade": {
+            "en": "Trade",
+            "mr": "व्यापार"
+        },
+        "transformers": {
+            "en": "Transformers",
+            "mr": "ट्रान्सफॉर्मर"
+        }
+    },
+    "nav": {
+        "about": {
+            "en": "About",
+            "mr": "आमच्याबद्दल"
+        },
+        "contact": {
+            "en": "Contact",
+            "mr": "संपर्क"
+        }
+    },
+    "about": {
+        "intro": {
+            "description": {
+                "en": "Learn about our village, its demographics, and infrastructure",
+                "mr": "आमच्या गावाबद्दल, त्याच्या लोकसंख्येबद्दल आणि पायाभूत सुविधांबद्दल जाणून घ्या"
+            }
+        },
+        "history": {
+            "description": {
+                "en": "Explore the rich history and heritage of our village",
+                "mr": "आमच्या गावाचा समृद्ध इतिहास आणि वारसा शोधा"
+            }
+        },
+        "admin": {
+            "description": {
+                "en": "Meet the elected representatives and administrative staff",
+                "mr": "निवडून आलेले प्रतिनिधी आणि प्रशासकीय कर्मचारी भेटा"
+            }
+        }
+    },
+    "contact": {
+        "address": {
+            "en": "Address",
+            "mr": "पत्ता"
+        },
+        "phone": {
+            "en": "Phone",
+            "mr": "दूरध्वनी"
+        },
+        "email": {
+            "en": "Email",
+            "mr": "ईमेल"
+        },
+        "office": {
+            "en": "Gram Panchayat Office",
+            "mr": "ग्राम पंचायत कार्यालय"
+        },
+        "officeHours": {
+            "en": "Office Hours",
+            "mr": "कार्यालयीन वेळ"
+        },
+        "title": {
+            "en": "Contact Information",
+            "mr": "संपर्क माहिती"
+        }
+    },
+    "departments": {
+        "notFoundMessage": {
+            "en": "The department you're looking for could not be found.",
+            "mr": "तुम्ही शोधत असलेला विभाग सापडला नाही."
+        },
+        "about": {
+            "en": "About",
+            "mr": "बद्दल"
+        },
+        "services": {
+            "en": "Services",
+            "mr": "सेवा"
+        },
+        "schemes": {
+            "en": "Schemes",
+            "mr": "योजना"
+        },
+        "head": {
+            "en": "Department Head",
+            "mr": "विभाग प्रमुख"
+        }
+    }
+}

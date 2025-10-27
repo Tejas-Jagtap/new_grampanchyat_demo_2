@@ -1,0 +1,250 @@
+{
+    "serviceCategories": [
+        {
+            "id": "certificates",
+            "name": {
+                "en": "Certificates",
+                "mr": "प्रमाणपत्रे"
+            },
+            "enabled": true
+        },
+        {
+            "id": "licenses",
+            "name": {
+                "en": "Licenses",
+                "mr": "परवाने"
+            },
+            "enabled": true
+        },
+        {
+            "id": "welfare",
+            "name": {
+                "en": "Welfare Schemes",
+                "mr": "कल्याण योजना"
+            },
+            "enabled": true
+        },
+        {
+            "id": "tax",
+            "name": {
+                "en": "Tax & Revenue",
+                "mr": "कर आणि महसूल"
+            },
+            "enabled": true
+        }
+    ],
+    "services": [
+        {
+            "id": "birth-certificate",
+            "category": "certificates",
+            "name": {
+                "en": "Birth Certificate",
+                "mr": "जन्म दाखला"
+            },
+            "description": {
+                "en": "Official birth registration certificate issued by Gram Panchayat for newborns.",
+                "mr": "नवजात बालकांसाठी ग्रामपंचायतीने जारी केलेले अधिकृत जन्म नोंदणी प्रमाणपत्र."
+            },
+            "processingTime": "7",
+            "fee": "₹50",
+            "documents": [
+                "Hospital Certificate",
+                "Parents Aadhar",
+                "Address Proof"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "death-certificate",
+            "category": "certificates",
+            "name": {
+                "en": "Death Certificate",
+                "mr": "मृत्यू दाखला"
+            },
+            "description": {
+                "en": "Official death registration certificate for legal and administrative purposes.",
+                "mr": "कायदेशीर आणि प्रशासकीय हेतूंसाठी अधिकृत मृत्यू नोंदणी प्रमाणपत्र."
+            },
+            "processingTime": "7",
+            "fee": "₹50",
+            "documents": [
+                "Hospital Certificate",
+                "Family Member Aadhar",
+                "Address Proof"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "income-certificate",
+            "category": "certificates",
+            "name": {
+                "en": "Income Certificate",
+                "mr": "उत्पन्न प्रमाणपत्र"
+            },
+            "description": {
+                "en": "Certificate showing annual income for scholarship, loan, and government scheme applications.",
+                "mr": "शिष्यवृत्ती, कर्ज आणि सरकारी योजना अर्जासाठी वार्षिक उत्पन्न दर्शविणारे प्रमाणपत्र."
+            },
+            "processingTime": "15",
+            "fee": "₹100",
+            "documents": [
+                "Aadhar Card",
+                "Salary Slips/Income Proof",
+                "Bank Statement"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "residence-certificate",
+            "category": "certificates",
+            "name": {
+                "en": "Residence Certificate",
+                "mr": "रहिवास प्रमाणपत्र"
+            },
+            "description": {
+                "en": "Proof of residence in the village for admission, jobs, and government benefits.",
+                "mr": "प्रवेश, नोकऱ्या आणि सरकारी लाभांसाठी गावातील रहिवासाचा पुरावा."
+            },
+            "processingTime": "10",
+            "fee": "₹75",
+            "documents": [
+                "Aadhar Card",
+                "Ration Card",
+                "Electricity Bill"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "building-permission",
+            "category": "licenses",
+            "name": {
+                "en": "Building Construction Permission",
+                "mr": "इमारत बांधकाम परवानगी"
+            },
+            "description": {
+                "en": "Permission required for new construction or major renovations in the village.",
+                "mr": "गावात नवीन बांधकाम किंवा मोठ्या नूतनीकरणासाठी आवश्यक परवानगी."
+            },
+            "processingTime": "30",
+            "fee": "₹500 - ₹5,000",
+            "documents": [
+                "Land Documents",
+                "Building Plan",
+                "NOC from neighbors"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "trade-license",
+            "category": "licenses",
+            "name": {
+                "en": "Trade License",
+                "mr": "व्यापार परवाना"
+            },
+            "description": {
+                "en": "License to operate business or commercial activities within village jurisdiction.",
+                "mr": "गाव हद्दीत व्यवसाय किंवा व्यावसायिक क्रियाकलाप चालविण्यासाठी परवाना."
+            },
+            "processingTime": "15",
+            "fee": "₹1,000 - ₹10,000",
+            "documents": [
+                "Business Plan",
+                "Aadhar Card",
+                "Shop/Office Address Proof"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "widow-pension",
+            "category": "welfare",
+            "name": {
+                "en": "Widow Pension Scheme",
+                "mr": "विधवा पेन्शन योजना"
+            },
+            "description": {
+                "en": "Monthly pension for widows below poverty line to support their livelihood.",
+                "mr": "दारिद्र्य रेषेखालील विधवांना त्यांच्या उपजीविकेसाठी मासिक पेन्शन."
+            },
+            "processingTime": "30",
+            "fee": {
+                "en": "Free",
+                "mr": "मोफत"
+            },
+            "documents": [
+                "Death Certificate (Husband)",
+                "Aadhar",
+                "Bank Account",
+                "Income Certificate"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "old-age-pension",
+            "category": "welfare",
+            "name": {
+                "en": "Old Age Pension",
+                "mr": "वृद्धापकाळ निवृत्ती वेतन"
+            },
+            "description": {
+                "en": "Financial assistance for senior citizens above 60 years of age.",
+                "mr": "60 वर्षांपेक्षा जास्त वयाच्या ज्येष्ठ नागरिकांसाठी आर्थिक सहाय्य."
+            },
+            "processingTime": "30",
+            "fee": {
+                "en": "Free",
+                "mr": "मोफत"
+            },
+            "documents": [
+                "Aadhar Card",
+                "Age Proof (Birth Certificate)",
+                "Bank Account",
+                "Income Certificate"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "property-tax",
+            "category": "tax",
+            "name": {
+                "en": "Property Tax",
+                "mr": "मालमत्ता कर"
+            },
+            "description": {
+                "en": "Annual tax on residential and commercial properties within Gram Panchayat limits.",
+                "mr": "ग्रामपंचायत मर्यादेतील निवासी आणि व्यावसायिक मालमत्तेवर वार्षिक कर."
+            },
+            "processingTime": {
+                "en": "Instant",
+                "mr": "तात्काळ"
+            },
+            "fee": "As per property value",
+            "documents": [
+                "Property Documents",
+                "Previous Tax Receipt"
+            ],
+            "enabled": true
+        },
+        {
+            "id": "water-tax",
+            "category": "tax",
+            "name": {
+                "en": "Water Tax",
+                "mr": "पाणी कर"
+            },
+            "description": {
+                "en": "Annual charges for water supply and maintenance of water infrastructure.",
+                "mr": "पाणी पुरवठा आणि पाणी पायाभूत सुविधांच्या देखभालीसाठी वार्षिक शुल्क."
+            },
+            "processingTime": {
+                "en": "Instant",
+                "mr": "तात्काळ"
+            },
+            "fee": "₹200 - ₹1,000/year",
+            "documents": [
+                "Water Connection Number",
+                "Aadhar Card"
+            ],
+            "enabled": true
+        }
+    ]
+}

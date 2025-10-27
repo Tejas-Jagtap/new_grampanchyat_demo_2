@@ -1,0 +1,415 @@
+{
+    "completedProjects": [
+        {
+            "id": "road-improvement",
+            "name": {
+                "en": "Road Improvement Project",
+                "mr": "रस्ता सुधारणा प्रकल्प"
+            },
+            "year": "2024",
+            "budget": {
+                "en": "₹ 1.5 Crore",
+                "mr": "₹ १.५ कोटी"
+            },
+            "impact": {
+                "en": "Improved connectivity for 5000+ residents",
+                "mr": "५०००+ रहिवाशांसाठी सुधारित मार्ग जोडणी"
+            },
+            "photos": [
+                "/images/projects/completed/road-1.jpg",
+                "/images/projects/completed/road-2.jpg"
+            ],
+            "description": {
+                "en": "Complete renovation of main village road with proper drainage system",
+                "mr": "योग्य ड्रेनेज सिस्टमसह मुख्य गाव रस्त्याचे संपूर्ण नूतनीकरण"
+            }
+        },
+        {
+            "id": "community-hall",
+            "name": {
+                "en": "Community Hall Construction",
+                "mr": "सामाजिक सभागृह बांधकाम"
+            },
+            "year": "2024",
+            "budget": {
+                "en": "₹ 2.8 Crore",
+                "mr": "₹ २.८ कोटी"
+            },
+            "impact": {
+                "en": "Facility for 500+ people gatherings and events",
+                "mr": "५००+ लोकांच्या कार्यक्रमांसाठी सुविधा"
+            },
+            "photos": [
+                "/images/projects/completed/hall-1.jpg",
+                "/images/projects/completed/hall-2.jpg"
+            ],
+            "description": {
+                "en": "Modern community hall with audio-visual facilities and green building features",
+                "mr": "ऑडिओ-व्हिज्युअल सुविधा आणि ग्रीन बिल्डिंग वैशिष्ट्यांसह आधुनिक सामाजिक सभागृह"
+            }
+        },
+        {
+            "id": "digital-library",
+            "name": {
+                "en": "Digital Library Setup",
+                "mr": "डिजिटल ग्रंथालय स्थापना"
+            },
+            "year": "2023",
+            "budget": {
+                "en": "₹ 85 Lakhs",
+                "mr": "₹ ८५ लाख"
+            },
+            "impact": {
+                "en": "Digital access to education for 1000+ students",
+                "mr": "१०००+ विद्यार्थ्यांसाठी शिक्षणाची डिजिटल उपलब्धता"
+            },
+            "photos": [
+                "/images/projects/completed/library-1.jpg",
+                "/images/projects/completed/library-2.jpg"
+            ],
+            "description": {
+                "en": "Modern digital library with computers, internet, and e-learning resources",
+                "mr": "संगणक, इंटरनेट आणि ई-लर्निंग संसाधनांसह आधुनिक डिजिटल ग्रंथालय"
+            }
+        }
+    ],
+    "ongoingProjects": [
+        {
+            "id": "water-supply",
+            "name": {
+                "en": "24x7 Water Supply Project",
+                "mr": "२४x७ पाणी पुरवठा प्रकल्प"
+            },
+            "progress": 65,
+            "startDate": "2025-01",
+            "expectedCompletion": "2025-12",
+            "budget": {
+                "en": "₹ 2.8 Crore",
+                "mr": "₹ २.८ कोटी"
+            },
+            "status": {
+                "en": "Pipeline installation in progress",
+                "mr": "पाईपलाईन स्थापना प्रगतीपथावर"
+            },
+            "photos": [
+                "/images/projects/ongoing/water-1.jpg",
+                "/images/projects/ongoing/water-2.jpg"
+            ]
+        },
+        {
+            "id": "solar-street-lights",
+            "name": {
+                "en": "Solar Street Lighting",
+                "mr": "सौर पथदीप"
+            },
+            "progress": 40,
+            "startDate": "2025-03",
+            "expectedCompletion": "2025-09",
+            "budget": {
+                "en": "₹ 75 Lakhs",
+                "mr": "₹ ७५ लाख"
+            },
+            "status": {
+                "en": "Installation in phase 2, 40% complete",
+                "mr": "फेज २ मध्ये स्थापना, ४०% पूर्ण"
+            },
+            "photos": [
+                "/images/projects/ongoing/solar-1.jpg",
+                "/images/projects/ongoing/solar-2.jpg"
+            ]
+        },
+        {
+            "id": "smart-classrooms",
+            "name": {
+                "en": "Smart Classrooms Initiative",
+                "mr": "स्मार्ट वर्गखोली उपक्रम"
+            },
+            "progress": 25,
+            "startDate": "2025-06",
+            "expectedCompletion": "2026-03",
+            "budget": {
+                "en": "₹ 1.2 Crore",
+                "mr": "₹ १.२ कोटी"
+            },
+            "status": {
+                "en": "Infrastructure preparation phase",
+                "mr": "पायाभूत सुविधा तयारी टप्पा"
+            },
+            "photos": [
+                "/images/projects/ongoing/classroom-1.jpg",
+                "/images/projects/ongoing/classroom-2.jpg"
+            ]
+        }
+    ],
+    "proposedProjects": [
+        {
+            "id": "skill-center",
+            "name": {
+                "en": "Skill Development Center",
+                "mr": "कौशल्य विकास केंद्र"
+            },
+            "estimatedBudget": {
+                "en": "₹ 1.5 Crore",
+                "mr": "₹ १.५ कोटी"
+            },
+            "timeline": {
+                "en": "12 months",
+                "mr": "१२ महिने"
+            },
+            "benefits": {
+                "en": "Employment opportunities for 500+ youth annually",
+                "mr": "वार्षिक ५००+ युवकांसाठी रोजगाराच्या संधी"
+            },
+            "proposal": "/documents/skill-center-proposal.pdf",
+            "description": {
+                "en": "State-of-the-art skill development center with modern training facilities",
+                "mr": "आधुनिक प्रशिक्षण सुविधांसह अत्याधुनिक कौशल्य विकास केंद्र"
+            }
+        },
+        {
+            "id": "waste-management",
+            "name": {
+                "en": "Integrated Waste Management",
+                "mr": "एकात्मिक कचरा व्यवस्थापन"
+            },
+            "estimatedBudget": {
+                "en": "₹ 2.2 Crore",
+                "mr": "₹ २.२ कोटी"
+            },
+            "timeline": {
+                "en": "18 months",
+                "mr": "१८ महिने"
+            },
+            "benefits": {
+                "en": "Clean environment and potential revenue from recycling",
+                "mr": "स्वच्छ पर्यावरण आणि पुनर्चक्रीकरणातून संभाव्य महसूल"
+            },
+            "proposal": "/documents/waste-management-proposal.pdf",
+            "description": {
+                "en": "Modern waste segregation and processing facility with composting unit",
+                "mr": "कंपोस्टिंग युनिटसह आधुनिक कचरा वर्गीकरण आणि प्रक्रिया सुविधा"
+            }
+        }
+    ],
+    "sankalpTracker": [
+        {
+            "id": "sankalp-1",
+            "resolution": {
+                "en": "100% Digital Literacy",
+                "mr": "१००% डिजिटल साक्षरता"
+            },
+            "date": "2025-01-26",
+            "status": {
+                "en": "In Progress - 75% Achieved",
+                "mr": "प्रगतीपथावर - ७५% साध्य"
+            },
+            "nextMilestone": {
+                "en": "Youth Training Program - March 2025",
+                "mr": "युवा प्रशिक्षण कार्यक्रम - मार्च २०२५"
+            }
+        },
+        {
+            "id": "sankalp-2",
+            "resolution": {
+                "en": "Zero Waste Village",
+                "mr": "कचरामुक्त गाव"
+            },
+            "date": "2025-02-15",
+            "status": {
+                "en": "In Progress - 60% Achieved",
+                "mr": "प्रगतीपथावर - ६०% साध्य"
+            },
+            "nextMilestone": {
+                "en": "Waste Segregation Training - November 2025",
+                "mr": "कचरा वर्गीकरण प्रशिक्षण - नोव्हेंबर २०२५"
+            }
+        },
+        {
+            "id": "sankalp-3",
+            "resolution": {
+                "en": "100% Solar Street Lighting",
+                "mr": "१००% सौर पथदीप"
+            },
+            "date": "2025-03-01",
+            "status": {
+                "en": "In Progress - 40% Achieved",
+                "mr": "प्रगतीपथावर - ४०% साध्य"
+            },
+            "nextMilestone": {
+                "en": "Phase 2 Installation - December 2025",
+                "mr": "फेज २ स्थापना - डिसेंबर २०२५"
+            }
+        }
+    ],
+    "impactMetrics": {
+        "infrastructure": {
+            "roadCoverage": {
+                "label": {
+                    "en": "Road Network Coverage (%)",
+                    "mr": "रस्ते नेटवर्क कव्हरेज (%)"
+                },
+                "data": {
+                    "2020": 60,
+                    "2021": 65,
+                    "2022": 75,
+                    "2023": 85,
+                    "2024": 90
+                }
+            },
+            "waterAccess": {
+                "label": {
+                    "en": "24x7 Water Access (%)",
+                    "mr": "२४x७ पाणी उपलब्धता (%)"
+                },
+                "data": {
+                    "2020": 70,
+                    "2021": 75,
+                    "2022": 80,
+                    "2023": 85,
+                    "2024": 90
+                }
+            },
+            "solarCoverage": {
+                "label": {
+                    "en": "Solar Street Light Coverage (%)",
+                    "mr": "सौर पथदीप कव्हरेज (%)"
+                },
+                "data": {
+                    "2020": 10,
+                    "2021": 20,
+                    "2022": 35,
+                    "2023": 50,
+                    "2024": 65
+                }
+            }
+        },
+        "education": {
+            "literacyRate": {
+                "label": {
+                    "en": "Literacy Rate (%)",
+                    "mr": "साक्षरता दर (%)"
+                },
+                "data": {
+                    "2020": 75,
+                    "2021": 78,
+                    "2022": 82,
+                    "2023": 85,
+                    "2024": 88
+                }
+            },
+            "digitalLiteracy": {
+                "label": {
+                    "en": "Digital Literacy (%)",
+                    "mr": "डिजिटल साक्षरता (%)"
+                },
+                "data": {
+                    "2020": 30,
+                    "2021": 40,
+                    "2022": 55,
+                    "2023": 65,
+                    "2024": 75
+                }
+            }
+        },
+        "health": {
+            "healthcareCoverage": {
+                "label": {
+                    "en": "Healthcare Coverage (%)",
+                    "mr": "आरोग्य सेवा कव्हरेज (%)"
+                },
+                "data": {
+                    "2020": 65,
+                    "2021": 70,
+                    "2022": 75,
+                    "2023": 80,
+                    "2024": 85
+                }
+            },
+            "sanitationCoverage": {
+                "label": {
+                    "en": "Sanitation Coverage (%)",
+                    "mr": "स्वच्छता कव्हरेज (%)"
+                },
+                "data": {
+                    "2020": 70,
+                    "2021": 75,
+                    "2022": 85,
+                    "2023": 90,
+                    "2024": 95
+                }
+            }
+        },
+        "environment": {
+            "wasteManagement": {
+                "label": {
+                    "en": "Waste Management Coverage (%)",
+                    "mr": "कचरा व्यवस्थापन कव्हरेज (%)"
+                },
+                "data": {
+                    "2020": 40,
+                    "2021": 50,
+                    "2022": 60,
+                    "2023": 70,
+                    "2024": 80
+                }
+            },
+            "greenCoverage": {
+                "label": {
+                    "en": "Green Area Coverage (%)",
+                    "mr": "हरित क्षेत्र कव्हरेज (%)"
+                },
+                "data": {
+                    "2020": 15,
+                    "2021": 18,
+                    "2022": 22,
+                    "2023": 25,
+                    "2024": 30
+                }
+            }
+        }
+    },
+    "beforeAfter": [
+        {
+            "id": "road-transformation",
+            "name": {
+                "en": "Main Road Transformation",
+                "mr": "मुख्य रस्ता कायापालट"
+            },
+            "description": {
+                "en": "Complete renovation of village main road with proper drainage",
+                "mr": "योग्य ड्रेनेजसह गावातील मुख्य रस्त्याचे संपूर्ण नूतनीकरण"
+            },
+            "before": "/images/projects/before-after/road-before.jpg",
+            "after": "/images/projects/before-after/road-after.jpg",
+            "completionDate": "2024-06"
+        },
+        {
+            "id": "community-hall",
+            "name": {
+                "en": "Community Hall Development",
+                "mr": "सामाजिक सभागृह विकास"
+            },
+            "description": {
+                "en": "Modern community hall with digital facilities",
+                "mr": "डिजिटल सुविधांसह आधुनिक सामाजिक सभागृह"
+            },
+            "before": "/images/projects/before-after/hall-before.jpg",
+            "after": "/images/projects/before-after/hall-after.jpg",
+            "completionDate": "2024-08"
+        },
+        {
+            "id": "school-digital",
+            "name": {
+                "en": "School Digital Transformation",
+                "mr": "शाळा डिजिटल कायापालट"
+            },
+            "description": {
+                "en": "Conversion of traditional classrooms to smart classrooms",
+                "mr": "पारंपारिक वर्गखोल्यांचे स्मार्ट वर्गखोल्यांमध्ये रूपांतर"
+            },
+            "before": "/images/projects/before-after/school-before.jpg",
+            "after": "/images/projects/before-after/school-after.jpg",
+            "completionDate": "2024-12"
+        }
+    ]
+}

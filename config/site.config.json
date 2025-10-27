@@ -1,0 +1,62 @@
+{
+    "village": {
+        "name": {
+            "en": "Karad",
+            "mr": "कराड"
+        },
+        "district": {
+            "en": "Satara",
+            "mr": "सातारा"
+        },
+        "taluka": {
+            "en": "Taluka Name",
+            "mr": "तालुका नाव"
+        },
+        "state": {
+            "en": "Maharashtra",
+            "mr": "महाराष्ट्र"
+        },
+        "pincode": "000000"
+    },
+    "contact": {
+        "phone": "+91-XXXXXXXXXX",
+        "email": "grampanchayat@example.com",
+        "address": {
+            "en": "Gram Panchayat Office, Village Name, District, Maharashtra - 000000",
+            "mr": "ग्राम पंचायत कार्यालय, गाव नाव, जिल्हा, महाराष्ट्र - 000000"
+        }
+    },
+    "social": {
+        "facebook": "",
+        "twitter": "",
+        "youtube": "",
+        "instagram": ""
+    },
+    "website": {
+        "title": {
+            "en": "Village Name Gram Panchayat",
+            "mr": "गाव नाव ग्राम पंचायत"
+        },
+        "description": {
+            "en": "Official website of Village Name Gram Panchayat, District, Maharashtra",
+            "mr": "गाव नाव ग्राम पंचायत, जिल्हा, महाराष्ट्राची अधिकृत वेबसाइट"
+        },
+        "keywords": "gram panchayat, village, maharashtra, government"
+    },
+    "branding": {
+        "primaryColor": "#1e40af",
+        "secondaryColor": "#f97316",
+        "accentColor": "#059669",
+        "logo": "/images/logos/village-logo.png",
+        "emblem": "/images/Emblem.png",
+        "stateEmblem": "/images/Seal_of_Maharashtra.svg.png"
+    },
+    "features": {
+        "enableNews": true,
+        "enableGallery": true,
+        "enableSchemes": true,
+        "enableDepartments": true,
+        "enableServices": true,
+        "enableOnlineServices": false
+    }
+}

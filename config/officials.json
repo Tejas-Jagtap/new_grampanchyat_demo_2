@@ -1,0 +1,112 @@
+{
+    "chiefMinister": {
+        "name": {
+            "en": "Shri. Devendra Fadnavis",
+            "mr": "श्री. देवेंद्र फडणवीस"
+        },
+        "position": {
+            "en": "Chief Minister",
+            "mr": "मुख्यमंत्री"
+        },
+        "phone": "+91-XXXXXXXXXX",
+        "email": "cm@maharashtra.gov.in",
+        "photo": "/images/CM.jpg"
+    },
+    "deputyChiefMinister": {
+        "name": {
+            "en": "Shri. Eknath Shinde",
+            "mr": "श्री. एकनाथ शिंदे"
+        },
+        "position": {
+            "en": "Deputy Chief Minister",
+            "mr": "उपमुख्यमंत्री"
+        },
+        "phone": "+91-XXXXXXXXXX",
+        "email": "dcm@maharashtra.gov.in",
+        "photo": "/images/dcm1.jpg"
+    },
+    "deputyChiefMinister1": {
+        "name": {
+            "en": "Shri. Ajit Pawar",
+            "mr": "श्री. अजित पवार "
+        },
+        "position": {
+            "en": "Deputy Chief Minister",
+            "mr": "उपमुख्यमंत्री"
+        },
+        "phone": "+91-XXXXXXXXXX",
+        "email": "dcm@maharashtra.gov.in",
+        "photo": "/images/dcm2.jpg"
+    },
+    "sarpanch": {
+        "name": {
+            "en": "Name of Sarpanch",
+            "mr": "सरपंचांचे नाव"
+        },
+        "position": {
+            "en": "Sarpanch",
+            "mr": "सरपंच"
+        },
+        "phone": "+91-XXXXXXXXXX",
+        "email": "sarpanch@example.com",
+        "photo": "/images/officials/sarpanch.jpg",
+        "address": {
+            "en": "Village Name",
+            "mr": "गाव नाव"
+        }
+    },
+    "upSarpanch": {
+        "name": {
+            "en": "Name of Up-Sarpanch",
+            "mr": "उपसरपंचांचे नाव"
+        },
+        "position": {
+            "en": "Up-Sarpanch",
+            "mr": "उपसरपंच"
+        },
+        "phone": "+91-XXXXXXXXXX",
+        "email": "upsarpanch@example.com",
+        "photo": "/images/officials/up-sarpanch.jpg"
+    },
+    "gramSevak": {
+        "name": {
+            "en": "Name of Gram Sevak",
+            "mr": "ग्रामसेवकांचे नाव"
+        },
+        "position": {
+            "en": "Gram Sevak",
+            "mr": "ग्रामसेवक"
+        },
+        "phone": "+91-XXXXXXXXXX",
+        "email": "gramsevak@example.com",
+        "photo": "/images/officials/gram-sevak.jpg"
+    },
+    "members": [
+        {
+            "id": 1,
+            "name": {
+                "en": "Member Name 1",
+                "mr": "सदस्य नाव १"
+            },
+            "wardNumber": 1,
+            "position": {
+                "en": "Ward Member",
+                "mr": "प्रभाग सदस्य"
+            },
+            "phone": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": 2,
+            "name": {
+                "en": "Member Name 2",
+                "mr": "सदस्य नाव २"
+            },
+            "wardNumber": 2,
+            "position": {
+                "en": "Ward Member",
+                "mr": "प्रभाग सदस्य"
+            },
+            "phone": "+91-XXXXXXXXXX"
+        }
+    ]
+}

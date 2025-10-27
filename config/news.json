@@ -1,0 +1,61 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": {
+                "en": "New Water Supply Project Launched",
+                "mr": "नवीन पाणीपुरवठा प्रकल्प सुरू"
+            },
+            "description": {
+                "en": "A new water supply project has been launched to provide clean drinking water to all households.",
+                "mr": "सर्व घरांना स्वच्छ पिण्याचे पाणी पुरवण्यासाठी नवीन पाणीपुरवठा प्रकल्प सुरू करण्यात आला आहे."
+            },
+            "date": "2025-03-10",
+            "category": {
+                "en": "Infrastructure",
+                "mr": "पायाभूत सुविधा"
+            },
+            "image": "/images/news/news1.jpg",
+            "link": "",
+            "featured": false
+        },
+        {
+            "id": 2,
+            "title": {
+                "en": "Free Health Camp Organized",
+                "mr": "मोफत आरोग्य शिबिर आयोजित"
+            },
+            "description": {
+                "en": "Free health checkup camp was organized for all villagers with specialist doctors.",
+                "mr": "तज्ञ डॉक्टरांसह सर्व गावकऱ्यांसाठी मोफत आरोग्य तपासणी शिबिर आयोजित करण्यात आले."
+            },
+            "date": "2025-03-08",
+            "category": {
+                "en": "Health",
+                "mr": "आरोग्य"
+            },
+            "image": "/images/news/news2.jpg",
+            "link": "",
+            "featured": false
+        },
+        {
+            "id": 3,
+            "title": {
+                "en": "Road Construction Work Completed",
+                "mr": "रस्ता बांधकाम कार्य पूर्ण"
+            },
+            "description": {
+                "en": "The construction of 5 km village road has been successfully completed.",
+                "mr": "५ किमी गावातील रस्त्याचे बांधकाम यशस्वीरित्या पूर्ण झाले आहे."
+            },
+            "date": "2025-03-05",
+            "category": {
+                "en": "Development",
+                "mr": "विकास"
+            },
+            "image": "/images/news/news3.jpg",
+            "link": "",
+            "featured": false
+        }
+    ]
+}

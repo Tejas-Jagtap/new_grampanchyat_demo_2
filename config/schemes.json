@@ -1,0 +1,371 @@
+{
+    "applicationSteps": {
+        "central": {
+            "en": [
+                "Visit your local Gram Panchayat office",
+                "Fill out the application form",
+                "Submit required documents",
+                "Verify your details with the official",
+                "Receive application acknowledgment"
+            ],
+            "mr": [
+                "स्थानिक ग्रामपंचायत कार्यालयात भेट द्या",
+                "अर्जाचा फॉर्म भरा",
+                "आवश्यक कागदपत्रे सादर करा",
+                "अधिकाऱ्यासह तपशील तपासा",
+                "अर्जाची पावती मिळवा"
+            ]
+        },
+        "state": {
+            "en": [
+                "Visit your local Gram Panchayat office",
+                "Fill out the state scheme application form",
+                "Submit required documents",
+                "Complete verification process",
+                "Receive application number"
+            ],
+            "mr": [
+                "स्थानिक ग्रामपंचायत कार्यालयात भेट द्या",
+                "राज्य योजनेचा अर्ज फॉर्म भरा",
+                "आवश्यक कागदपत्रे सादर करा",
+                "पडताळणी प्रक्रिया पूर्ण करा",
+                "अर्ज क्रमांक मिळवा"
+            ]
+        },
+        "local": {
+            "en": [
+                "Visit the Gram Panchayat office",
+                "Consult with the local official",
+                "Complete the application process",
+                "Submit necessary documents",
+                "Receive confirmation"
+            ],
+            "mr": [
+                "ग्रामपंचायत कार्यालयात भेट द्या",
+                "स्थानिक अधिकाऱ्यांशी सल्लामसलत करा",
+                "अर्ज प्रक्रिया पूर्ण करा",
+                "आवश्यक कागदपत्रे सादर करा",
+                "पुष्टी मिळवा"
+            ]
+        }
+    },
+    "schemeCategories": {
+        "central": {
+            "enabled": true,
+            "name": {
+                "en": "Central Government Schemes",
+                "mr": "केंद्र शासन योजना"
+            },
+            "description": {
+                "en": "Schemes and programs initiated by the Central Government of India for rural development and welfare.",
+                "mr": "ग्रामीण विकास आणि कल्याणासाठी भारत सरकारने सुरू केलेल्या योजना आणि कार्यक्रम."
+            }
+        },
+        "state": {
+            "enabled": true,
+            "name": {
+                "en": "State Government Schemes",
+                "mr": "राज्य शासन योजना"
+            },
+            "description": {
+                "en": "Schemes introduced by the Maharashtra State Government for the development of villages and citizens.",
+                "mr": "गावे आणि नागरिकांच्या विकासासाठी महाराष्ट्र राज्य सरकारने सादर केलेल्या योजना."
+            }
+        },
+        "local": {
+            "enabled": true,
+            "name": {
+                "en": "Local Gram Panchayat Schemes",
+                "mr": "स्थानिक ग्रामपंचायत योजना"
+            },
+            "description": {
+                "en": "Initiatives and programs implemented at the local Gram Panchayat level for community development.",
+                "mr": "समुदाय विकासासाठी स्थानिक ग्रामपंचायत स्तरावर राबवल्या जाणाऱ्या उपक्रम आणि कार्यक्रम."
+            }
+        }
+    },
+    "centralSchemes": [
+        {
+            "id": "pmay",
+            "name": {
+                "en": "Pradhan Mantri Awas Yojana (PMAY-G)",
+                "mr": "प्रधानमंत्री आवास योजना (ग्रामीण)"
+            },
+            "benefit": {
+                "en": "₹1,20,000 to ₹1,30,000 housing assistance",
+                "mr": "₹1,20,000 ते ₹1,30,000 घरकुल सहाय्य"
+            },
+            "description": {
+                "en": "Financial assistance for construction of pucca houses",
+                "mr": "पक्की घरे बांधण्यासाठी आर्थिक सहाय्य"
+            },
+            "eligibility": {
+                "en": "Families without pucca house, Annual income below ₹3 lakh",
+                "mr": "पक्की घर नसलेली कुटुंबे, वार्षिक उत्पन्न ₹3 लाखापेक्षा कमी"
+            },
+            "documents": [
+                "Aadhar Card",
+                "Income Certificate",
+                "Bank Account",
+                "Photo ID",
+                "BPL Certificate"
+            ],
+            "beneficiaries": 142,
+            "enabled": true
+        },
+        {
+            "id": "mgnrega",
+            "name": {
+                "en": "MGNREGA (Mahatma Gandhi NREGA)",
+                "mr": "मनरेगा (महात्मा गांधी नरेगा)"
+            },
+            "benefit": {
+                "en": "100 days guaranteed employment per household",
+                "mr": "प्रति घर 100 दिवस हमीदार रोजगार"
+            },
+            "description": {
+                "en": "Guaranteed wage employment in rural areas",
+                "mr": "ग्रामीण भागात हमीदार वेतन रोजगार"
+            },
+            "eligibility": {
+                "en": "Adult members of rural households willing to do unskilled manual work",
+                "mr": "अकुशल शारीरिक काम करण्यास इच्छुक ग्रामीण कुटुंबातील प्रौढ सदस्य"
+            },
+            "documents": [
+                "Job Card",
+                "Aadhar Card",
+                "Bank Account Details"
+            ],
+            "beneficiaries": 347,
+            "enabled": true
+        },
+        {
+            "id": "ayushman",
+            "name": {
+                "en": "Ayushman Bharat (PM-JAY)",
+                "mr": "आयुष्मान भारत"
+            },
+            "benefit": {
+                "en": "₹5 lakh health insurance per family annually",
+                "mr": "₹5 लाख आरोग्य विमा प्रतिकुटुंब दरवर्षी"
+            },
+            "description": {
+                "en": "Free health insurance for secondary and tertiary care hospitalization",
+                "mr": "दुय्यम आणि तृतीय स्तरावरील रुग्णालयात दाखल होण्यासाठी मोफत आरोग्य विमा"
+            },
+            "eligibility": {
+                "en": "Families listed in SECC database as per deprivation criteria",
+                "mr": "वंचितपणाच्या निकषानुसार SECC डेटाबेसमध्ये सूचीबद्ध कुटुंबे"
+            },
+            "documents": [
+                "Ayushman Card",
+                "Aadhar Card",
+                "Ration Card"
+            ],
+            "beneficiaries": 892,
+            "enabled": true
+        },
+        {
+            "id": "pmkisan",
+            "name": {
+                "en": "PM-KISAN (Kisan Samman Nidhi)",
+                "mr": "पीएम-किसान (किसान सम्मान निधी)"
+            },
+            "benefit": {
+                "en": "₹6,000 per year in three installments",
+                "mr": "₹6,000 प्रतिवर्ष तीन हप्त्यांमध्ये"
+            },
+            "description": {
+                "en": "Income support to all landholding farmers",
+                "mr": "सर्व जमीनधारक शेतकऱ्यांना उत्पन्न सहाय्य"
+            },
+            "eligibility": {
+                "en": "All land-holding farmers, excluding institutional landholders",
+                "mr": "सर्व जमीनधारक शेतकरी, संस्थात्मक जमीनधारक वगळून"
+            },
+            "documents": [
+                "Land Records",
+                "Aadhar Card",
+                "Bank Account",
+                "Ration Card"
+            ],
+            "beneficiaries": 285,
+            "enabled": true
+        }
+    ],
+    "stateSchemes": [
+        {
+            "id": "ramai-awas",
+            "name": {
+                "en": "Ramai Awas Yojana",
+                "mr": "रमाई आवास योजना"
+            },
+            "benefit": {
+                "en": "₹1,00,000 housing assistance",
+                "mr": "₹1,00,000 घरकुल सहाय्य"
+            },
+            "description": {
+                "en": "Housing scheme for scheduled castes and tribes providing financial support for home construction",
+                "mr": "अनुसूचित जाती आणि जमातींसाठी घर बांधकामासाठी आर्थिक सहाय्य देणारी गृहनिर्माण योजना"
+            },
+            "eligibility": {
+                "en": "Families from SC/ST category, Annual income below ₹2.5 lakh",
+                "mr": "अनुसूचित जाती/जमातीतील कुटुंबे, वार्षिक उत्पन्न ₹2.5 लाखापेक्षा कमी"
+            },
+            "documents": [
+                "Caste Certificate",
+                "Income Certificate",
+                "Aadhar Card",
+                "Bank Account",
+                "Land Documents"
+            ],
+            "beneficiaries": 45,
+            "enabled": true
+        },
+        {
+            "id": "kanya-bhagyashree",
+            "name": {
+                "en": "Kanya Bhagyashree Yojana",
+                "mr": "कन्या भाग्यश्री योजना"
+            },
+            "benefit": {
+                "en": "₹25,000 for girl child education and marriage",
+                "mr": "मुलींच्या शिक्षण आणि विवाहासाठी ₹25,000"
+            },
+            "description": {
+                "en": "Financial incentive scheme to promote girl child education and prevent female foeticide",
+                "mr": "मुलींच्या शिक्षणाला प्रोत्साहन देण्यासाठी आणि भ्रूणहत्या रोखण्यासाठी आर्थिक प्रोत्साहन योजना"
+            },
+            "eligibility": {
+                "en": "Families with one or two girl children, Annual income below ₹1 lakh",
+                "mr": "एक किंवा दोन मुली असलेली कुटुंबे, वार्षिक उत्पन्न ₹1 लाखापेक्षा कमी"
+            },
+            "documents": [
+                "Birth Certificate",
+                "Income Certificate",
+                "Aadhar Card",
+                "Bank Account",
+                "Sterilization Certificate"
+            ],
+            "beneficiaries": 67,
+            "enabled": true
+        },
+        {
+            "id": "lek-ladki",
+            "name": {
+                "en": "Lek Ladki Yojana",
+                "mr": "लेक लाडकी योजना"
+            },
+            "benefit": {
+                "en": "Financial assistance for girl child education at different stages",
+                "mr": "विविध टप्प्यांवर मुलींच्या शिक्षणासाठी आर्थिक सहाय्य"
+            },
+            "description": {
+                "en": "Multi-stage financial support scheme for girl children from yellow and orange ration card families",
+                "mr": "पिवळे आणि नारिंगी रेशन कार्ड कुटुंबातील मुलींसाठी बहु-टप्पा आर्थिक सहाय्य योजना"
+            },
+            "eligibility": {
+                "en": "Girl children from yellow/orange ration card families, Annual income below ₹1 lakh",
+                "mr": "पिवळे/नारिंगी रेशन कार्ड कुटुंबातील मुली, वार्षिक उत्पन्न ₹1 लाखापेक्षा कमी"
+            },
+            "documents": [
+                "Ration Card",
+                "Birth Certificate",
+                "Aadhar Card",
+                "Bank Account",
+                "School Certificate"
+            ],
+            "beneficiaries": 89,
+            "enabled": true
+        }
+    ],
+    "localSchemes": [
+        {
+            "id": "road-development",
+            "name": {
+                "en": "Village Road Development",
+                "mr": "गाव रस्ता विकास"
+            },
+            "benefit": {
+                "en": "Concrete roads in all wards for better connectivity",
+                "mr": "चांगल्या जोडणीसाठी सर्व वार्डात काँक्रीट रस्ते"
+            },
+            "description": {
+                "en": "Infrastructure development project to construct and maintain concrete roads in all village wards",
+                "mr": "गावातील सर्व वार्डांमध्ये काँक्रीट रस्ते बांधणे आणि देखभाल करण्यासाठी पायाभूत सुविधा विकास प्रकल्प"
+            },
+            "eligibility": {
+                "en": "All village residents, Priority given to areas with poor road conditions",
+                "mr": "गावातील सर्व रहिवासी, रस्त्याची खराब स्थिती असलेल्या भागांना प्राधान्य"
+            },
+            "documents": [
+                "Application letter",
+                "Address Proof",
+                "Community consent"
+            ],
+            "status": {
+                "en": "Active - 3 roads under construction",
+                "mr": "सक्रिय - 3 रस्ते बांधकामाधीन"
+            },
+            "enabled": true
+        },
+        {
+            "id": "water-tank",
+            "name": {
+                "en": "Water Tank Construction",
+                "mr": "पाणी टाकी बांधकाम"
+            },
+            "benefit": {
+                "en": "24x7 clean water supply to all households",
+                "mr": "सर्व घरांना 24x7 स्वच्छ पाणी पुरवठा"
+            },
+            "description": {
+                "en": "Construction of water storage tanks to ensure continuous water supply throughout the year",
+                "mr": "वर्षभर सतत पाणी पुरवठा सुनिश्चित करण्यासाठी पाणी साठवण टाक्यांचे बांधकाम"
+            },
+            "eligibility": {
+                "en": "All village wards, Areas facing water scarcity given priority",
+                "mr": "गावातील सर्व वार्ड, पाण्याची टंचाई असलेल्या भागांना प्राधान्य"
+            },
+            "documents": [
+                "Community proposal",
+                "Land availability certificate",
+                "Technical survey report"
+            ],
+            "status": {
+                "en": "Completed - 2 tanks, Planned - 1 tank",
+                "mr": "पूर्ण - 2 टाक्या, नियोजित - 1 टाकी"
+            },
+            "enabled": true
+        },
+        {
+            "id": "solar-street-light",
+            "name": {
+                "en": "Solar Street Light Installation",
+                "mr": "सोलर स्ट्रीट लाइट बसवणे"
+            },
+            "benefit": {
+                "en": "Energy-efficient lighting for village roads and public spaces",
+                "mr": "गावातील रस्ते आणि सार्वजनिक जागांसाठी ऊर्जा-कार्यक्षम प्रकाश"
+            },
+            "description": {
+                "en": "Installation of solar-powered LED street lights to improve safety and reduce electricity costs",
+                "mr": "सुरक्षा सुधारण्यासाठी आणि वीज खर्च कमी करण्यासाठी सौर ऊर्जेवर चालणारे LED स्ट्रीट लाइट बसवणे"
+            },
+            "eligibility": {
+                "en": "All village areas, Dark spots and main roads prioritized",
+                "mr": "गावातील सर्व भाग, अंधारकोंडी आणि मुख्य रस्त्यांना प्राधान्य"
+            },
+            "documents": [
+                "Location details",
+                "Community request",
+                "Safety assessment"
+            ],
+            "status": {
+                "en": "Ongoing - 45 lights installed, 20 pending",
+                "mr": "चालू - 45 दिवे लावले, 20 प्रलंबित"
+            },
+            "enabled": true
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "gallery": [
+        {
+            "id": 1,
+            "title": {
+                "en": "Independence Day Celebration",
+                "mr": "स्वातंत्र्य दिन साजरा"
+            },
+            "category": {
+                "en": "Events",
+                "mr": "कार्यक्रम"
+            },
+            "image": "/images/hero1.jpg",
+            "date": "2024-08-15",
+            "description": {
+                "en": "Independence Day celebration at village ground",
+                "mr": "गाव मैदानावर स्वातंत्र्य दिन साजरा"
+            }
+        },
+        {
+            "id": 2,
+            "title": {
+                "en": "Clean Village Drive",
+                "mr": "स्वच्छ गाव मोहीम"
+            },
+            "category": {
+                "en": "Cleanliness",
+                "mr": "स्वच्छता"
+            },
+            "image": "/images/hero1.jpg",
+            "date": "2024-10-02",
+            "description": {
+                "en": "Swachh Bharat Abhiyan activity",
+                "mr": "स्वच्छ भारत अभियान उपक्रम"
+            }
+        },
+        {
+            "id": 3,
+            "title": {
+                "en": "Women Empowerment Program",
+                "mr": "महिला सक्षमीकरण कार्यक्रम"
+            },
+            "category": {
+                "en": "Social",
+                "mr": "सामाजिक"
+            },
+            "image": "/images/hero1.jpg",
+            "date": "2024-03-08",
+            "description": {
+                "en": "Women's Day special program",
+                "mr": "महिला दिन विशेष कार्यक्रम"
+            }
+        }
+    ]
+}

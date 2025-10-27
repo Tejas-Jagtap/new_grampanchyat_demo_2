@@ -1,0 +1,214 @@
+{
+    "title": {
+        "mr": "माझे गाव",
+        "en": "My Village"
+    },
+    "sub_title": {
+        "mr": "माझे गाव, माझी प्रगती",
+        "en": "My Village, My Progress"
+    },
+    "subtitle": {
+        "mr": "गावाच्या विकासाची आणि प्रगतीची नवीनतम माहिती",
+        "en": "Latest information about village development and progress"
+    },
+    "sections": {
+        "keyStats": {
+            "title": {
+                "mr": "महत्त्वाची आकडेवारी",
+                "en": "Key Statistics"
+            },
+            "stats": [
+                {
+                    "label": {
+                        "mr": "लोकसंख्या",
+                        "en": "Population"
+                    },
+                    "value": "३५००",
+                    "change": "+५०",
+                    "icon": "Users",
+                    "color": "blue"
+                },
+                {
+                    "label": {
+                        "mr": "साक्षरता दर",
+                        "en": "Literacy Rate"
+                    },
+                    "value": "८७%",
+                    "change": "+२%",
+                    "icon": "BookOpen",
+                    "color": "green"
+                },
+                {
+                    "label": {
+                        "mr": "स्वच्छता कव्हरेज",
+                        "en": "Sanitation Coverage"
+                    },
+                    "value": "९५%",
+                    "change": "+५%",
+                    "icon": "Droplets",
+                    "color": "sky"
+                },
+                {
+                    "label": {
+                        "mr": "नळजोडणी",
+                        "en": "Water Connections"
+                    },
+                    "value": "८२०",
+                    "change": "+१५",
+                    "icon": "Home",
+                    "color": "teal"
+                },
+                {
+                    "label": {
+                        "mr": "वीजपुरवठा",
+                        "en": "Electricity Supply"
+                    },
+                    "value": "१००%",
+                    "change": "०%",
+                    "icon": "Zap",
+                    "color": "yellow"
+                },
+                {
+                    "label": {
+                        "mr": "वृक्षारोपण",
+                        "en": "Tree Plantation"
+                    },
+                    "value": "१२००",
+                    "change": "+१००",
+                    "icon": "Leaf",
+                    "color": "green"
+                },
+                {
+                    "label": {
+                        "mr": "योजना लाभार्थी",
+                        "en": "Scheme Beneficiaries"
+                    },
+                    "value": "४५०",
+                    "change": "+२५",
+                    "icon": "Target",
+                    "color": "purple"
+                },
+                {
+                    "label": {
+                        "mr": "ग्रामनिधी वापर",
+                        "en": "Village Fund Usage"
+                    },
+                    "value": "९८%",
+                    "change": "+८%",
+                    "icon": "Wallet",
+                    "color": "rose"
+                },
+                {
+                    "label": {
+                        "mr": "तक्रार निराकरण",
+                        "en": "Complaint Resolution"
+                    },
+                    "value": "९२%",
+                    "change": "+७%",
+                    "icon": "MessageSquare",
+                    "color": "cyan"
+                }
+            ]
+        },
+        "achievements": {
+            "title": {
+                "mr": "टॉप ५ उपलब्धी",
+                "en": "Top 5 Achievements"
+            },
+            "items": [
+                {
+                    "text": {
+                        "mr": "१००% वीजपुरवठा साध्य",
+                        "en": "100% Electricity Supply Achieved"
+                    },
+                    "progress": "100%"
+                },
+                {
+                    "text": {
+                        "mr": "स्वच्छता स्पर्धा प्रथम पुरस्कार",
+                        "en": "First Prize in Cleanliness Competition"
+                    },
+                    "progress": "100%"
+                },
+                {
+                    "text": {
+                        "mr": "२००० वृक्षारोपण लक्ष्य",
+                        "en": "2000 Tree Plantation Target"
+                    },
+                    "progress": "60%"
+                },
+                {
+                    "text": {
+                        "mr": "ग्रामनिधीचा ९८% वापर",
+                        "en": "98% Village Fund Utilization"
+                    },
+                    "progress": "98%"
+                },
+                {
+                    "text": {
+                        "mr": "डिजिटल ग्रामपंचायत पोर्टल",
+                        "en": "Digital Gram Panchayat Portal"
+                    },
+                    "progress": "85%"
+                }
+            ]
+        },
+        "yearlyProgress": {
+            "title": {
+                "mr": "वार्षिक प्रगती तुलना",
+                "en": "Yearly Progress Comparison"
+            },
+            "metrics": [
+                {
+                    "label": {
+                        "mr": "लोकसंख्या",
+                        "en": "Population"
+                    },
+                    "data": [
+                        3200,
+                        3300,
+                        3400,
+                        3450,
+                        3500
+                    ],
+                    "color": "blue"
+                },
+                {
+                    "label": {
+                        "mr": "साक्षरता दर %",
+                        "en": "Literacy Rate %"
+                    },
+                    "data": [
+                        82,
+                        83,
+                        85,
+                        86,
+                        87
+                    ],
+                    "color": "green"
+                },
+                {
+                    "label": {
+                        "mr": "वृक्षारोपण",
+                        "en": "Tree Plantation"
+                    },
+                    "data": [
+                        800,
+                        900,
+                        1000,
+                        1100,
+                        1200
+                    ],
+                    "color": "teal"
+                }
+            ],
+            "years": [
+                "२०२१",
+                "२०२२",
+                "२०२३",
+                "२०२४",
+                "२०२५"
+            ]
+        }
+    }
+}

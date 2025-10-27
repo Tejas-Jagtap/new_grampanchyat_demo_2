@@ -1,0 +1,153 @@
+{
+    "title": {
+        "en": "Contact Us",
+        "mr": "संपर्क साधा"
+    },
+    "subtitle": {
+        "en": "Get in touch with us - We're here to help",
+        "mr": "आमच्याशी संपर्क साधा - आम्ही मदतीसाठी येथे आहोत"
+    },
+    "contactInfo": {
+        "address": {
+            "label": {
+                "en": "Address",
+                "mr": "पत्ता"
+            }
+        },
+        "phone": {
+            "label": {
+                "en": "Phone",
+                "mr": "फोन"
+            }
+        },
+        "email": {
+            "label": {
+                "en": "Email",
+                "mr": "ईमेल"
+            }
+        },
+        "officeHours": {
+            "label": {
+                "en": "Office Hours",
+                "mr": "कार्यालयीन वेळ"
+            },
+            "value": {
+                "en": "Monday - Friday: 10:00 AM - 6:00 PM",
+                "mr": "सोमवार - शुक्रवार: सकाळी 10:00 - संध्याकाळी 6:00"
+            }
+        }
+    },
+    "contactForm": {
+        "title": {
+            "en": "Send Us a Message",
+            "mr": "आम्हाला संदेश पाठवा"
+        },
+        "fullName": {
+            "label": {
+                "en": "Full Name",
+                "mr": "पूर्ण नाव"
+            },
+            "placeholder": {
+                "en": "Enter your name",
+                "mr": "आपले नाव प्रविष्ट करा"
+            }
+        },
+        "email": {
+            "label": {
+                "en": "Email",
+                "mr": "ईमेल"
+            },
+            "placeholder": {
+                "en": "Enter your email",
+                "mr": "आपला ईमेल प्रविष्ट करा"
+            }
+        },
+        "phone": {
+            "label": {
+                "en": "Phone Number",
+                "mr": "फोन नंबर"
+            },
+            "placeholder": {
+                "en": "Enter your phone number",
+                "mr": "आपला फोन नंबर प्रविष्ट करा"
+            }
+        },
+        "subject": {
+            "label": {
+                "en": "Subject",
+                "mr": "विषय"
+            },
+            "placeholder": {
+                "en": "Select Subject",
+                "mr": "विषय निवडा"
+            },
+            "options": [
+                {
+                    "value": "general",
+                    "label": {
+                        "en": "General Inquiry",
+                        "mr": "सामान्य चौकशी"
+                    }
+                },
+                {
+                    "value": "complaint",
+                    "label": {
+                        "en": "Complaint",
+                        "mr": "तक्रार"
+                    }
+                },
+                {
+                    "value": "suggestion",
+                    "label": {
+                        "en": "Suggestion",
+                        "mr": "सूचना"
+                    }
+                }
+            ]
+        },
+        "message": {
+            "label": {
+                "en": "Message",
+                "mr": "संदेश"
+            },
+            "placeholder": {
+                "en": "Write your message...",
+                "mr": "आपला संदेश लिहा..."
+            }
+        },
+        "sendButton": {
+            "en": "Send Message",
+            "mr": "संदेश पाठवा"
+        },
+        "successMessage": {
+            "en": "Thank you! Your message has been sent. We will contact you soon.",
+            "mr": "धन्यवाद! आपला संदेश पाठवला गेला आहे. आम्ही लवकरच आपल्याशी संपर्क साधू."
+        }
+    },
+    "locationMap": {
+        "title": {
+            "en": "Location Map",
+            "mr": "स्थान नकाशा"
+        }
+    },
+    "emergency": {
+        "title": {
+            "en": "Emergency Contact",
+            "mr": "आपत्कालीन संपर्क"
+        },
+        "text": {
+            "en": "For urgent matters, please call our emergency helpline",
+            "mr": "तात्काळ प्रकरणांसाठी, कृपया आमची आपत्कालीन हेल्पलाइन कॉल करा"
+        },
+        "tollFree": {
+            "en": "Toll Free",
+            "mr": "टोल फ्री"
+        }
+    },
+    "socialMedia": {
+        "title": {
+            "en": "Follow Us",
+            "mr": "आम्हाला फॉलो करा"
+        }
+    }
+}

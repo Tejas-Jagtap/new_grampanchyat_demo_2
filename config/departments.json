@@ -1,0 +1,104 @@
+{
+    "departments": [
+        {
+            "id": "agriculture",
+            "name": {
+                "en": "Agriculture Department",
+                "mr": "कृषी विभाग"
+            },
+            "slug": "agriculture",
+            "icon": "FaSeedling",
+            "color": "from-green-400 to-green-600",
+            "description": {
+                "en": "Dedicated to supporting farmers with modern agricultural practices, seeds distribution, and farming equipment.",
+                "mr": "शेतकऱ्यांना आधुनिक शेती पद्धती, बियाणे वितरण आणि शेती उपकरणे यासह समर्थन देण्यासाठी समर्पित."
+            },
+            "head": {
+                "name": {
+                    "en": "Mr. Ramesh Khadse",
+                    "mr": "श्री रमेश खडसे"
+                },
+                "designation": {
+                    "en": "Agriculture Officer",
+                    "mr": "कृषी अधिकारी"
+                }
+            },
+            "enabled": true
+        },
+        {
+            "id": "health",
+            "name": {
+                "en": "Health Department",
+                "mr": "आरोग्य विभाग"
+            },
+            "slug": "health",
+            "icon": "FaHeartbeat",
+            "color": "from-red-400 to-red-600",
+            "description": {
+                "en": "Ensuring healthcare facilities, vaccination programs, and health awareness campaigns for all villagers.",
+                "mr": "सर्व ग्रामस्थांसाठी आरोग्य सुविधा, लसीकरण कार्यक्रम आणि आरोग्य जागरूकता मोहिमा सुनिश्चित करणे."
+            },
+            "head": {
+                "name": {
+                    "en": "Dr. Smita Patil",
+                    "mr": "डॉ. स्मिता पाटील"
+                },
+                "designation": {
+                    "en": "Medical Officer",
+                    "mr": "वैद्यकीय अधिकारी"
+                }
+            },
+            "enabled": true
+        },
+        {
+            "id": "education",
+            "name": {
+                "en": "Education Department",
+                "mr": "शिक्षण विभाग"
+            },
+            "slug": "education",
+            "icon": "FaGraduationCap",
+            "color": "from-blue-400 to-blue-600",
+            "description": {
+                "en": "Promoting quality education, managing schools, and implementing educational programs for children and adults.",
+                "mr": "दर्जेदार शिक्षण प्रोत्साहन, शाळा व्यवस्थापन आणि मुले व प्रौढांसाठी शैक्षणिक कार्यक्रमांची अंमलबजावणी."
+            },
+            "head": {
+                "name": {
+                    "en": "Mrs. Savita Joshi",
+                    "mr": "श्रीमती सविता जोशी"
+                },
+                "designation": {
+                    "en": "Education Officer",
+                    "mr": "शिक्षण अधिकारी"
+                }
+            },
+            "enabled": true
+        },
+        {
+            "id": "social-welfare",
+            "name": {
+                "en": "Social Welfare Department",
+                "mr": "समाज कल्याण विभाग"
+            },
+            "slug": "social-welfare",
+            "icon": "FaUsers",
+            "color": "from-purple-400 to-purple-600",
+            "description": {
+                "en": "Working for the welfare of senior citizens, women, children, and differently-abled individuals through various schemes.",
+                "mr": "विविध योजनांद्वारे वरिष्ठ नागरिक, महिला, मुले आणि दिव्यांग व्यक्तींच्या कल्याणासाठी कार्यरत."
+            },
+            "head": {
+                "name": {
+                    "en": "Mrs. Meena Deshpande",
+                    "mr": "श्रीमती मीना देशपांडे"
+                },
+                "designation": {
+                    "en": "Social Welfare Officer",
+                    "mr": "समाज कल्याण अधिकारी"
+                }
+            },
+            "enabled": true
+        }
+    ]
+}
