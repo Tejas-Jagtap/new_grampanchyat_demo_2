@@ -16,6 +16,13 @@ const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
 
+  // Static visitor count data
+  const visitorStats = {
+    total: "12,547",
+    today: "143",
+    online: "27",
+  };
+
   // Load departments dynamically from config
   const departments = getDepartments();
 
@@ -119,11 +126,26 @@ const Navigation = () => {
       dropdownItems: [
         { nameKey: "navigation.demographics", href: "/dashboard/demographics" },
         { nameKey: "navigation.utilities", href: "/dashboard/utilities" },
-        { nameKey: "navigation.beneficiaries", href: "/dashboard/beneficiaries" },
-        { nameKey: "navigation.grievanceStatus", href: "/dashboard/grievance-status" },
-        { nameKey: "navigation.environmental", href: "/dashboard/environmental" },
-        { nameKey: "navigation.wardAnalysis", href: "/dashboard/ward-analysis" },
-        { nameKey: "navigation.topAchievements", href: "/dashboard/achievements" },
+        {
+          nameKey: "navigation.beneficiaries",
+          href: "/dashboard/beneficiaries",
+        },
+        {
+          nameKey: "navigation.grievanceStatus",
+          href: "/dashboard/grievance-status",
+        },
+        {
+          nameKey: "navigation.environmental",
+          href: "/dashboard/environmental",
+        },
+        {
+          nameKey: "navigation.wardAnalysis",
+          href: "/dashboard/ward-analysis",
+        },
+        {
+          nameKey: "navigation.topAchievements",
+          href: "/dashboard/achievements",
+        },
       ],
     },
   ];
@@ -132,6 +154,30 @@ const Navigation = () => {
     <nav className="bg-[#0A1931] text-white sticky top-0 z-50 shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-12">
+          {/* Visitor Count Display */}
+          <div className="hidden lg:flex items-center space-x-4 text-xs">
+            <div className="flex items-center space-x-2">
+              <span className="text-gray-400">
+                {language === "en" ? "Total Visitors:" : "एकूण भेटी:"}
+              </span>
+              <span className="font-semibold">{visitorStats.total}</span>
+            </div>
+            <div className="flex items-center space-x-2">
+              <span className="text-gray-400">
+                {language === "en" ? "Today:" : "आज:"}
+              </span>
+              <span className="font-semibold">{visitorStats.today}</span>
+            </div>
+            <div className="flex items-center space-x-2">
+              <span className="text-gray-400">
+                {language === "en" ? "Online:" : "ऑनलाईन:"}
+              </span>
+              <div className="flex items-center">
+                <div className="w-2 h-2 bg-green-500 rounded-full mr-1 animate-pulse"></div>
+                <span className="font-semibold">{visitorStats.online}</span>
+              </div>
+            </div>
+          </div>
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-1 w-full justify-center">
             {menuItems.map((item) => (
