@@ -186,28 +186,35 @@ export default function ImpactDashboardPage() {
         </div>
 
         {/* Sector-wise Impact */}
-        {Object.entries(impactData).map(([sector, metrics]) => (
-          <div key={sector} className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">
-              {getLabel(`metrics.${sector}`, language)}
-            </h2>
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              {Object.entries(metrics).map(([key, metric]) => (
-                <div key={key} className="bg-white rounded-lg shadow-lg p-6">
-                  <h3 className="text-lg font-semibold text-gray-900 mb-4">
-                    {getText(metric.label, language)}
-                  </h3>
-                  <div className="h-64">
-                    <LineChart
-                      data={metric.data}
-                      label={getText(metric.label, language)}
-                    />
-                  </div>
-                </div>
-              ))}
+        {Object.entries(impactData).map(
+          ([sector, metrics]: [string, SectorMetrics]) => (
+            <div key={sector} className="mb-8">
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                {getLabel(`metrics.${sector}`, language)}
+              </h2>
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                {Object.entries(metrics).map(
+                  ([key, metric]: [string, MetricData]) => (
+                    <div
+                      key={key}
+                      className="bg-white rounded-lg shadow-lg p-6"
+                    >
+                      <h3 className="text-lg font-semibold text-gray-900 mb-4">
+                        {getText(metric.label, language)}
+                      </h3>
+                      <div className="h-64">
+                        <LineChart
+                          data={metric.data}
+                          label={getText(metric.label, language)}
+                        />
+                      </div>
+                    </div>
+                  )
+                )}
+              </div>
             </div>
-          </div>
-        ))}
+          )
+        )}
       </div>
     </div>
   );
