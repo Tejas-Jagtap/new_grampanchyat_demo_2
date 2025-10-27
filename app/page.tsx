@@ -16,7 +16,7 @@ export default function Home() {
         {/* Officials - Full Width */}
         <Officials />
         {/* Statistics - Full Width */}
-        <Statistics />
+        {/* <Statistics /> */}
 
         <Dashboard />
         {/* Main Content Grid */}
