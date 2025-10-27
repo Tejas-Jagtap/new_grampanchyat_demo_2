@@ -39,9 +39,6 @@ interface SectorMetrics {
 
 interface ImpactData {
   infrastructure: SectorMetrics;
-  education: SectorMetrics;
-  health: SectorMetrics;
-  environment: SectorMetrics;
 }
 
 // Dummy data - replace with actual config
@@ -74,7 +71,6 @@ const impactData: ImpactData = {
       },
     },
   },
-  // Add more sectors as needed
 };
 
 const chartColors = {
