@@ -145,7 +145,7 @@ export default function StateSchemesPage() {
                               className="flex items-start gap-2 text-sm sm:text-base"
                             >
                               <span className="w-2 h-2 bg-government-orange rounded-full mt-2 flex-shrink-0"></span>
-                              <span>{doc}</span>
+                              <span>{getText(doc, language)}</span>
                             </li>
                           ))}
                         </ul>

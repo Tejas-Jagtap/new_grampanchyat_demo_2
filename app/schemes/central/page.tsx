@@ -143,30 +143,13 @@ export default function CentralSchemesPage() {
                               className="flex items-start gap-2 text-sm sm:text-base"
                             >
                               <span className="w-2 h-2 bg-government-orange rounded-full mt-2 flex-shrink-0"></span>
-                              <span>{doc}</span>
+                              <span>{getText(doc, language)}</span>
                             </li>
                           ))}
                         </ul>
                         <button className="mt-6 w-full bg-[#0A1931] hover:bg-government-orange text-white px-4 py-3 rounded-lg font-semibold transition-colors duration-200 text-sm sm:text-base">
                           {getLabel("pages.schemes.applyNow", language)}
                         </button>
-                      </div>
-                    )}
-
-                    {schemeProcedure && (
-                      <div>
-                        <div className="flex items-center gap-2 mb-2">
-                          <FaClipboardList className="text-blue-700" />
-                          <h3 className="font-bold text-government-blue text-sm sm:text-base">
-                            {getLabel("pages.schemes.procedure", language) ||
-                              (language === "en"
-                                ? "How to Apply"
-                                : "अर्ज करण्याची प्रक्रिया")}
-                          </h3>
-                        </div>
-                        <p className="text-gray-700 pl-6 text-sm sm:text-base leading-relaxed">
-                          {schemeProcedure}
-                        </p>
                       </div>
                     )}
                   </div>

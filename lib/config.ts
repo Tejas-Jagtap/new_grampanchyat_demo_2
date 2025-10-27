@@ -31,10 +31,11 @@ export interface Scheme {
   benefit: BilingualText | string;
   description?: BilingualText;
   eligibility?: BilingualText;
-  documents?: BilingualText[];
-  beneficiaries?: string;
+  documents?: BilingualText[] | string[];
+  beneficiaries?: string | number;
   applicationUrl?: string;
-  enabled?: boolean;
+  status?: BilingualText | string;
+  enabled: boolean;
 }
 
 export interface ApplicationSteps {
@@ -156,18 +157,6 @@ export interface Department {
   enabled: boolean;
 }
 
-export interface Scheme {
-  id: string;
-  name: BilingualText;
-  benefit: BilingualText | string;
-  description?: BilingualText;
-  eligibility?: BilingualText;
-  documents?: string[];
-  beneficiaries?: number;
-  status?: BilingualText | string;
-  enabled: boolean;
-}
-
 export interface ServiceItem {
   id: string;
   category: string;
@@ -249,7 +238,13 @@ export const getServicesByCategory = (category: string): ServiceItem[] =>
   );
 
 // Helper function to get text by language
-export const getText = (text: BilingualText, language: "en" | "mr"): string => {
+export const getText = (
+  text: BilingualText | string,
+  language: "en" | "mr"
+): string => {
+  if (typeof text === "string") {
+    return text;
+  }
   return text[language];
 };
 
