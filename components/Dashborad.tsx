@@ -137,7 +137,9 @@ export default function Dashboard() {
         <div className="bg-white rounded-lg shadow-lg overflow-hidden mb-6">
           <h3 className="text-lg sm:text-xl font-semibold flex items-center gap-2 bg-[#0A1931] text-white px-4 py-3">
             <TrendingUp className="w-4 h-4 sm:w-5 sm:h-5" />
-            {getText(content.title, language)}
+            {language === "en"
+              ? " My Village, My Progress "
+              : " माझे गाव, माझी प्रगती "}
           </h3>
           <div className="p-4 sm:p-6">
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-6">
