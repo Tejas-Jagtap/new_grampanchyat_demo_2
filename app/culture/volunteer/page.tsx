@@ -175,7 +175,7 @@ export default function VolunteerPage() {
                   <p className="text-red-800">{getText(testimonial.role)}</p>
                 </div>
                 <p className="text-gray-600 italic">
-                  "{getText(testimonial.quote)}"
+                  {getText(testimonial.quote)}
                 </p>
               </div>
             ))}
